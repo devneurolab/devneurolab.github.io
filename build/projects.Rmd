@@ -1,0 +1,77 @@
+---
+title: "PROJECTS"
+---
+***
+<style>
+.column-left1{
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+.column-center1{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+.column-right1{
+  float: right;
+  width: 33%;
+  text-align: center;
+}
+.column-left2{
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+.column-center2{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+.column-right2{
+  float: right;
+  width: 33%;
+  text-align: center;
+}
+.img{
+  position:relative;
+  padding-bottom: 20px;
+  align: center;
+  width: 300px;
+  height: 300px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+
+<a href="project1.html"><div class="column-left1">
+#####Cellular Aspects of Intestinal Regeneration
+  <div class="img" style="background-image:url('statics/images/img1.png');align:center;"></div>
+</div></a>
+<a href="project2.html"><div class="column-center1">
+#####Molecular Aspects of Intestinal Regeneration
+  <div class="img" style="background-image:url('statics/images/img2.png');align:center;"></div>
+</div></a>
+<a href="project3.html"><div class="column-right1">
+#####Holothuria glaberrima Transcriptomics
+  <div class="img" style="background-image:url('statics/images/img3.png');align:center;"></div>
+</div></a>
+<a href="project4.html"><div class="column-left2">
+#####Regenerative Neurogenesis
+  <div class="img" style="background-image:url('statics/images/img4.png');"></div>
+</div></a>
+<a href="project5.html"><div class="column-center2">
+#####Echinoderm Nervous System
+  <div class="img" style="background-image:url('statics/images/img5.png');"></div>
+</div></a>
+<a href="project6.html"><div class="column-right2">
+#####Echinoderm Intestinal Microbiome
+  <div class="img" style="background-image:url('statics/images/img6.png');"></div>
+</div></a>
+
+***
+
+_Click the images to read more about our projects._
+
+***

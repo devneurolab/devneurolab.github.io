@@ -1,0 +1,78 @@
+---
+title: "CURRENT MEMBERS"
+---
+
+*** 
+<style>
+.members{
+  position: relative;
+  float: left;
+  width: 50%;
+}
+.labpic{
+  width: 100%;
+  padding-bottom: 20px;
+}
+</style>
+
+<div class="labpic">
+![](statics/images/thelab.jpeg)
+</div>
+***
+
+<div class="members">
+
+###Current
+
+####Technician
+
+* Griselle Valentiín
+
+####Grad Students
+
+* Miosotis Alicea-Delgado
+* Samir Bello
+* Lymarie Diaz-Diaz
+* Joshua G. Medina
+* David Quispe
+* Eliel Rivera
+* Jose Alexis Rodriguez
+* Saely Rosado
+* Fernando Ruiz
+
+####Undergraduate Students
+
+* Alexandra Amador
+* Ariana Caraballo
+* Sebastian Cruz
+* Angela Colon
+* Alejandro Cedeno
+* Raul Garcia-Rosario
+* Ruben Garcia
+* Cristina Gerena
+* Carlos Martinez
+* Luis Medina
+* Thaybet Malave
+* Omar Perez
+* Eduardo Quesada
+* Tathana Rivera
+* Carlos Rodriguez
+* Wilyaret Rodriguez
+* Angelica Romero
+* Joseph Salem
+* Kidianys Sanchez
+* Angel Sirfa
+* Fabiola Sotomayor
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+        
+
+</div>
+

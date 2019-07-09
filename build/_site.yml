@@ -1,0 +1,38 @@
+name: "devneurolab"
+navbar:
+  title: "<img id=\"logo\" style=\"width:200px;height:44.28px;padding-bottom: 10px;padding-right:10px;padding-left:10px;\" src=\"statics/images/DEVNEUROLAB-02.png\" />"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "PI"
+      href: pi.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Members"
+      menu:
+      - text: "Current"
+        href: about.html
+      - text: "Alumni"
+        href: alumni.html
+    - text: "More"
+      menu:
+      - text: "Community Outreach"
+        href: outreach.html
+      - text: "Programs"
+        href: programs.html
+output:
+  html_document:
+    theme: lumen
+    highlight: textmate
+    css: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+    include:
+      after_body: statics/footer.html
+    lib_dir: site_libs
+exclude:
+  - "*sqlite"
+  - "*gtf.gz"
+  - "*~"
+  - ".#*"
+  - Makefile
+include: "*.Rmd"
+output_dir: _site

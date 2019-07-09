@@ -1,0 +1,76 @@
+---
+title: "Jose E. Garcia Arraras, PhD"
+---
+
+<style>
+.column-left-info{
+  padding-right: 10px;
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right-info{
+  float: right;
+  width: 50%;
+  text-align: center;
+}
+.contact{
+  padding-bottom: 10px;
+}
+</style>
+
+Principal Investigator
+
+***
+
+<div>
+  <img src="statics/images/el_doc.jpg" style="width:450px;padding=20px" align="right">
+</div>
+
+<div style="padding-left: 20px;">
+
+#####Education
+* June 1985 - December 1985
+    + Visiting Research Fellow
+    + Department of Pharmacology, Tokyo Medical and Dental University
+    + 5-45 Yushima I-Chome, Bunkyo-Ku, Tokyo 113, Japan
+  
+* November 1984 - May 1985
+    + Visiting Research Fellow
+    + Department of Physiology, Flinders Medical School
+    + Bedford Park, 5042 South Australia, Australia
+
+* 1981 - 1984
+    + Postdoctoral Researcher
+    + Institut d'Embryologie, CNRS et College de France
+    + Nogent-sur-Marne, France
+
+* 1976 - 1981
+    + Graduate Degree (PhD)
+    + Department of Physiology and Biophysics
+    + Harvard University, Massachusetts, United States of America
+
+* 1972 - 1976
+    + Bachelor's Degree (B.Sc.)
+    + University of Puerto Rico, Mayagüez Campus
+    + Mayagüez, Puerto Rico
+
+<div class="contact">
+***
+####Contact Information
+
+<div class="column-left-info">
+Biology Department <br />
+Julio Garcia Diaz Building - JGD220 <br />
+University of Puerto Rico <br />
+San Juan, PR 00931
+</div>
+<div class="column-right-info">
+For inquiries or interest in our research please <br/> contact us through the following: <br />
+Phone: 787-764-0000, Ext. 88152 <br />
+Email: jegarcia@hpcf.upr.edu
+</div>
+
+</div>
+
+***
