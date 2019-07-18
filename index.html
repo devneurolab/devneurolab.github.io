@@ -282,7 +282,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html"><img id="logo" style="width:200px;height:44.28px;padding-bottom: 10px;padding-right:10px;padding-left:10px;" src="statics/images/DEVNEUROLAB-02.png" /></a>
+      <a class="navbar-brand" href="index.html"><img id="logo" style="width:103.81px;height:40.16px;padding-bottom: 10px;padding-right:10px;padding-left:10px;" src="statics/images/DEVNEUROLAB-02.png" /></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -386,12 +386,41 @@ Developmental Neurobiology Laboratory
   display: table;
   clear: both;
 }
+.column-about-text {
+  float: left;
+  width: 70%;
+  text-align: left;
+  padding: 10px;
+}
+.column-about-img {
+  float: right;
+  width: 30%;
+}
 @media screen and (max-width: 600px) {
   .column-programs {
     width: 100%;
   }
+  .column-about-text{
+    width: 100%;
+  }
+  .column-about-img{
+    width: 100%;
+  }
 }
 </style>
+<div class="row">
+<div class="column-about-text">
+<h2>
+About Us
+</h2>
+<p>
+Our laboratory uses the sea cucumber Holothuria glaberrima, as a model system to study different aspects of organogenesis and regeneration as well as comparative neuronal anatomy and evolution. Sea cucumber, which comprises the group holothurians, are coelomate organisms of the phylum echinodermata. They are closely related to chordates by, in contrast to chordates, echibit an impressive ability to regenerate complex structures. In holothurians the regenerative process is evidenced following evisceration in which all major viscera are discarded. In H. glaberrima, regeneration of the intestine in completed in a 4-week period. Our overall goal is to use this model system to understand the process of organogenesis and how the multiplicity of cell types are generated and assembled into a functional organ.
+</p>
+</div>
+<div class="column-about-img">
+<img src="statics/images/cucumber.JPG" style="width:340px;padding:20px;align:center;">
+</div>
+</div>
 <center>
 <h2 style="padding:4px;">
 Research Programs
@@ -411,7 +440,6 @@ Research Programs
 <a href="programs.html#rise">RISE</a>
 </div>
 </div>
-</body>
 <hr />
 <div class="column-left">
 <p>Biology Department <br /> Julio Garcia Diaz Building - JGD220 <br /> University of Puerto Rico <br /> San Juan, PR 00931</p>

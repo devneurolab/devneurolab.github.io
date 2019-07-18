@@ -1,6 +1,6 @@
 name: "devneurolab"
 navbar:
-  title: "<img id=\"logo\" style=\"width:200px;height:44.28px;padding-bottom: 10px;padding-right:10px;padding-left:10px;\" src=\"statics/images/DEVNEUROLAB-02.png\" />"
+  title: "<img id=\"logo\" style=\"width:103.81px;height:40.16px;padding-bottom: 10px;padding-right:10px;padding-left:10px;\" src=\"statics/images/DEVNEUROLAB-02.png\" />"
   right:
     - text: "Home"
       href: index.html
