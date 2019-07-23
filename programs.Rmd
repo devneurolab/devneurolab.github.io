@@ -1,0 +1,71 @@
+---
+title: "RESEARCH PROGRAMS"
+---
+
+***
+
+<style>
+a:link {
+  color: black; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+a:hover {
+  color: orange;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
+
+<center>
+
+<div>
+<div style="text-align:center;padding:10px;">
+<h2 id="neuro"><a href="http://neuroid.uprrp.edu/">NEURO-ID</a></h2>
+Neuroscience Research Opportunity to Increase Diversity
+</div>
+
+![](statics/images/neuro-id-logo.png)
+
+<p style="padding:10px;">NEURO-ID is a program designed to increase diversity in Neuroscience by providing opportunities to undergraduate students interested in this area and enhance their scientific knowledge, research capability and social responsability.</p>
+
+</div>
+
+<div>
+<div style="text-align:center;padding:10px;">
+<h2 id="ibd2k"><a href="https://idi-bd2k.hpcf.upr.edu/">IBD2K</a></h2>
+Increasing Diversity in Interdisciplinary Big Data to Knowledge
+</div>
+
+![](statics/images/ibd2k.jpg){width=250px}
+
+<p style="padding:10px;">The IDI-BD2K project is a proposal by faculty from the College of Natural Sciences of the Rio Piedras Campus of the UPR and Harvard University to train groups of interdisciplinary students to generate biomedical knowledge through the analysis and interpretation of Big Data.</p>
+
+</div>
+
+<div>
+<div style="text-align:center;padding:10px;">
+<h2 id="rise"><a href="http://brtc.uprrp.edu/rise/">RISE</a></h2>
+Research Initiative for Scientific Enhancement
+</div>
+
+![](statics/images/rise.png){width=400px}
+
+<p style="padding:10px;">The RISE Program is a research training program designed to increase the preparation and skills of undergraduate and graduate students. It seeks to increase the number of students who become interested and fully participate in productive research experiences in biomedical sciences encouraging them to continue doctoral degrees and postdoctoral experiences.</p>
+
+</div>
+
+<div>
+<div style="text-align:center;padding:10px;">
+<h2 id="marc"><a href="http://brtc.uprrp.edu/marc/">MARC</a></h2>
+Maximizing Access to Research Careers
+</div>
+
+![](statics/images/marc.png){width=400px}
+
+<p style="padding:10px;">The MARC Program for undergraduate students is a research training program sponsored by the National Institute of General Medical Sciences (NIGMS); its main goal is to increase the amount of Puertorrican students and other minority groups that pursue graduate studies leading to a PhD in Biomedical Sciences.</p>
+
+</div>
+
+</center>
+

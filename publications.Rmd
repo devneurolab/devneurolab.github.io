@@ -1,0 +1,244 @@
+---
+title: "PUBLICATIONS"
+---
+
+***
+
+###2019
+
+Pagán-Jiménez M, Ruiz-Calderón JF, Dominguez-Bello MG, García-Arrarás JE. (2019) Characterization of the intestinal microbiota of the sea cucumber Holothuria glaberrima. PLoS ONE 14 (1): e020811 [[NCBI]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6353073/) [[PDF]](https://pdfs.semanticscholar.org/5028/dd4cffca5691a3f265771067e1c4d9e9c63a.pdf)
+
+###2018
+Viera-Vera J, García-Arrarás JE. Molecular characterization and gene expression patterns of retinoid receptors, in normal and regenerating tissues of the sea cucumber, Holothuria glaberrima. Gene 654 (2018) 23-35.[[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/29425825) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863048/pdf/nihms944441.pdf)
+
+García-Arrarás JE, Bello SA, Malavez S. The mesentery as the epicenter for intestinal regeneration. Front Cell Dev Biol, pii: S1084-9521(17)30533-5. doi: 10.1016/j.semcdb.2018.09.001. [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S1084952117305335?via%3Dihub)
+
+Diaz-Balzac, Carlos and Garcia-Arraras. Jose E. Echinoderm Nervous System. In: Oxford Research Encyclopedia of Neuroscience. S. Murray Sherman (ed). Oxford Univ Press. 2018. [[Oxford]](https://oxfordre.com/neuroscience/abstract/10.1093/acrefore/9780190264086.001.0001/acrefore-9780190264086-e-205)
+
+Smith LC, V Arriza, MA Barela Hudgell, G Barone, AG Bodnar, KM Buckley, V Cunsolo, N Dheilly, N Franchi, SD Fugmann, R Furukawa, J Garcia-Arraras, JH Henson, T Hibino, ZH Irons, C Li, CM Lun, AJ Majeske, M Oren, P Pagliara, A Pinsino, DA Raftos, JP Rast, B Samasa, D Schillaci, CS Schrankel, L Stabili, K Stensväg, E Sutton. 2018. Complexity of the Immune System in Echinoderms. In “Comparative Immunology”, EL Cooper, ed. Springer Publisher, 2018. [[Springer]](https://www.springer.com/gp/book/9783319767673)
+
+Garcia-Arraras JE, Diaz-Balzac C, Lazaro-Peña M. Holothurians as a model system to study regeneration. In: Marine Organisms as Model Systems in Biology and Medicine. M. Kloc and JZ Kubiak (eds). Results and Problems in Cell Differentiation Vol 65. Springer Publisher, 2018. [[Springer]](https://www.springer.com/gp/book/9783319924854)
+
+###2017
+
+Hernandez-Pasos J, Valentin-Tirado G, García-Arrarás JE. Melanotransferrin: New homolog genes and their differential expression during intestinal regeneration in the sea cucumber Holothuria glaberrima. J Exp Zool 328:259-274, 2017. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/28229527) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5432042/pdf/nihms856684.pdf)
+
+Mashanov VS, Zueva OR, García-Arrarás JE. Inhibition of cell proliferation does not slow down echinoderm neural regeneration. Front Zool 14:12, 2017. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/28250799) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5324207/pdf/12983_2017_Article_196.pdf)
+
+Rosado-Olivieri EA, Ramos-Ortiz GA, Hernández-Pasos J, Díaz-Balzac CA, Vázquez-Rosa E, Valentín-Tirado G, Vega IE, García-Arrarás JE. A START-domain containing protein is a novel marker of nervous system components of the sea cucumber Holothuria glaberrima. Comp Biochem Physiol B 214:57-65. 2017 [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/28864221) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5772606/pdf/nihms902894.pdf)
+
+Mashanov VS, Zueva OR, Mashanova D, García-Arrarás JE. Expression of stem cell factors in the adult sea cucumber digestive tube. Cell Tissue Res 370:427-440, 2017. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/28986650) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5705390/pdf/nihms911570.pdf)
+
+Garcia-Arraras, JE Dedifferentiation as a cell source for organ regeneration (Chapter 19). In: Regenerative Engineering and Developmental Biology: Principles and Applications. D. Gardiner (ed) CRC Press 2017. [[Amazon]](https://www.amazon.com/Regenerative-Engineering-Developmental-Biology-Applications/dp/1498723314)
+
+###2016
+
+Mashanov, Vladimir, Olga Zueva, and Jose Garcia-Arraras. "Inhibition of Cell Proliferation Does Not Slow down Echinoderm Neural Regeneration." 2016. doi:10.1101/066860. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/066860v1) [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2016/07/31/066860.full-text.pdf)
+
+Díaz-Balzac, Carlos A., María I. Lázaro-Peña, Lionel D. Vázquez-Figueroa, Roberto J. Díaz-Balzac, and José E. García-Arrarás. "Holothurian Nervous System Diversity Revealed by Neuroanatomical Analysis."PLoS ONE11, no. 3 (2016). doi:10.1371/journal.pone.0151129. [[NCBI]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4795612/) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4795612/pdf/pone.0151129.pdf)
+
+Vazquez-Velez, G. E., J. F. Rodriguez-Molina, M. C. Quinones-Frias, M. Pagan, and J. E. Garcia-Arraras. "A Proteoglycan-Like Molecule Offers Insights Into Ground Substance Changes During Holothurian Intestinal Regeneration."Journal of Histochemistry & Cytochemistry64, no. 6 (2016): 381-93. doi:10.1369/0022155416645781. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/27126824) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4888413/pdf/10.1369_0022155416645781.pdf)
+
+###2015
+
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Heterogeneous Generation of New Cells in the Adult Echinoderm Nervous System."Frontiers in Neuroanatomy9 (2015). doi:10.3389/fnana.2015.00123. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/26441553) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585025/pdf/fnana-09-00123.pdf)
+
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Expression of Pluripotency Factors in Echinoderm Regeneration."Cell and Tissue Research359, no. 2 (2014): 521-36. doi:10.1007/s00441-014-2040-4. [[NCBI]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4323854/) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4323854/pdf/nihms-646387.pdf)
+
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Myc Regulates Programmed Cell Death and Radial Glia Dedifferentiation after Neural Injury in an Echinoderm."BMC Developmental Biology15, no. 1 (2015). doi:10.1186/s12861-015-0071-z. [[BMC]](https://bmcdevbiol.biomedcentral.com/articles/10.1186/s12861-015-0071-z) [[PDF]](https://bmcdevbiol.biomedcentral.com/track/pdf/10.1186/s12861-015-0071-z)
+
+###2014
+
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Transcriptomic Changes during Regeneration of the Central Nervous System in an Echinoderm."BMC Genomics15, no. 1 (2014): 357. doi:10.1186/1471-2164-15-357. [PDF][BibTex ]
+
+Tossas, Karen, Sunny Qi-Huang, Eugenia Cuyar, and Jose E. García-Arrarás. "Temporal and Spatial Analysis of Enteric Nervous System Regeneration in the Sea CucumberHolothuria Glaberrima."Regeneration1, no. 3 (2014): 10-26. doi:10.1002/reg2.15. [PDF][BibTex ]
+
+Díaz-Balzac, Carlos A., Lionel D. Vázquez-Figueroa, and José E. García-Arrarás. "Novel Markers Identify Nervous System Components of the Holothurian Nervous System."Invertebrate Neuroscience14, no. 2 (2014): 113-25. doi:10.1007/s10158-014-0169-1. [PDF][BibTex ]
+
+Bello, Samir A., Ricardo J. Abreu-Irizarry, and José E. García-Arrarás. "Primary Cell Cultures of Regenerating Holothurian Tissues."Methods in Molecular Biology Tissue Morphogenesis, 2014, 283-97. doi:10.1007/978-1-4939-1164-6_19. [PDF][BibTex ]
+
+Soto-Acaba, Arisnel, Pablo Ortiz-Pineda, Josue Hernandez-Pasos, and Jose Garcia-Arraras. "Orpin and its isoform are novel putative calcium binding proteins associated to intestinal and nerve regeneration in the sea cucumber Holothuria glaberrima (651.22)."The FASEB Journal28, no. 1 Supplement (2014): 651-22. [PDF][BibTex ]
+
+###2013
+
+Huang, Sunny Qi, and José E. García-Arrarás. "Characterization of the intestinal tract neuroendocrine cells in normal and regenerating Holothuria glaberrima."The FASEB Journal27, no. 1 Supplement (2013): 797-1. [PDF][BibTex ]
+
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Radial Glial Cells Play a Key Role in Echinoderm Neural Regeneration."BMC Biology11, no. 1 (2013): 49. doi:10.1186/1741-7007-11-49. [PDF][BibTex ]
+
+###2012
+
+Mashanov, Vladimir S., Olga R. Zueva, and Jose E. Garcia-Arraras. "Expression of Wnt9, TCTP, and Bmp1/Tll in Sea Cucumber Visceral Regeneration."Gene Expression Patterns12, no. 1-2 (2012): 24-35. doi:10.1016/j.gep.2011.10.003. [PDF][BibTex ]
+
+Pasten, Consuelo, Pablo A. Ortiz-Pineda, and José E. García-Arrarás. "Ubiquitin-proteasome System Components Are Upregulated during Intestinal Regeneration."Genesis50, no. 4 (2012): 350-65. doi:10.1002/dvg.20803. [PDF][BibTex ]
+
+Díaz-Balzac, Carlos A., María I. Lázaro-Peña, Enrique M. García-Rivera, Carlos I. González, and José E. García-Arrarás. "Calbindin-D32k Is Localized to a Subpopulation of Neurons in the Nervous System of the Sea Cucumber Holothuria Glaberrima (Echinodermata)."PLoS ONE7, no. 3 (2012). doi:10.1371/journal.pone.0032689. [PDF][BibTex ]
+
+Pasten, Consuelo, Rey Rosa, Stephanie Ortiz, Sebastián González, and José E. García-Arrarás. "Characterization of Proteolytic Activities during Intestinal Regeneration of the Sea Cucumber, Holothuria Glaberrima."The International Journal of Developmental Biology56, no. 9 (2012): 681-91. doi:10.1387/ijdb.113473cp. [PDF][BibTex ]
+
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Retrotransposons in Animal Regeneration."Mobile Genetic Elements2, no. 5 (2012): 244-46. doi:10.4161/mge.22644. [PDF][BibTex ]
+
+Orlando, Giuseppe, Jose E. García-Arrarás, Tom Soker, Christopher Booth, Brian Sanders, Christina L. Ross, Paolo De Coppi, Alan C. Farney, Jeffrey Rogers, and Robert J. Stratta. "Regeneration and Bioengineering of the Gastrointestinal Tract: Current Status and Future Perspectives."Digestive and Liver Disease44, no. 9 (2012): 714-20. doi:10.1016/j.dld.2012.04.005. [PDF][BibTex ]
+
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Posttraumatic Regeneration Involves Differential Expression of Long Terminal Repeat (LTR) Retrotransposons."Developmental Dynamics241, no. 10 (2012): 1625-636. doi:10.1002/dvdy.23844. [PDF][BibTex ]
+
+###2011
+
+Mashanov, V. S., and J. E. García-Arrarás. "Gut Regeneration in Holothurians: A Snapshot of Recent Developments."The Biological Bulletin221, no. 1 (2011): 93-109. doi:10.1086/bblv221n1p93. [PDF][BibTex ]
+
+García-Arrarás, José E., Griselle Valentín-Tirado, Jaime E. Flores, Rey J. Rosa, Angélica Rivera-Cruz, José E San Miguel-Ruiz, and Karen Tossas. "Cell Dedifferentiation and Epithelial to Mesenchymal Transitions during Intestinal Regeneration in H. Glaberrima."BMC Developmental Biology11, no. 1 (2011): 61. doi:10.1186/1471-213x-11-61. [PDF][BibTex ]
+
+###2010
+
+Díaz-Balzac, Carlos A., Wigberto Mejías, Luis B. Jiménez, and José E. García-Arrarás. "The Catecholaminergic Nerve Plexus of Holothuroidea."Zoomorphology129, no. 2 (2010): 99-109. doi:10.1007/s00435-010-0103-y. [PDF][BibTex ]
+
+Díaz-Balzac, Carlos A., José E. Abreu-Arbelo, and José E. García-Arrarás. "Neuroanatomy of the Tube Feet and Tentacles in Holothuria Glaberrima (Holothuroidea, Echinodermata)."Zoomorphology129, no. 1 (2009): 33-43. doi:10.1007/s00435-009-0098-4. [PDF][BibTex ]
+
+Garcia-Arraras, Jose, and Igor Dolmatov. "Echinoderms: Potential Model Systems for Studies on Muscle Regeneration."CPD Current Pharmaceutical Design16, no. 8 (2010): 942-55. doi:10.2174/138161210790883426. [PDF][BibTex ]
+
+Ramírez-Gómez, Francisco, Francisco Aponte-Rivera, Lumen Méndez-Castaner, and Jose E. García-Arrarás. "Changes in Holothurian Coelomocyte Populations following Immune Stimulation with Different Molecular Patterns."Fish & Shellfish Immunology29, no. 2 (2010): 175-85. doi:10.1016/j.fsi.2010.03.013. [PDF][BibTex ]
+
+Mashanov, Vladimir S., Olga R. Zueva, and Jose E. Garcia-Arraras. "Organization of Glial Cells in the Adult Sea Cucumber Central Nervous System."Glia, 2010. doi:10.1002/glia.21031. [PDF][BibTex ]
+
+Mashanov, Vladimir S., Olga R. Zueva, Carmencita Rojas-Catagena, and Jose E. Garcia-Arraras. "Visceral Regeneration in a Sea Cucumber Involves Extensive Expression of Survivin and Mortalin Homologs in the Mesothelium."BMC Developmental Biology10, no. 1 (2010): 117. doi:10.1186/1471-213x-10-117. [PDF][BibTex ]
+
+Ramírez-Gómez, F., and J. E. García-Arrarás. "Echinoderm immunity."Invert Survival J7 (2010): 211-220. [PDF][BibTex ]
+
+###2009
+
+Miguel-Ruiz, José E San, Angel R. Maldonado-Soto, and José E. García-Arrarás. "Regeneration of the Radial Nerve Cord in the Sea Cucumber Holothuria Glaberrima."BMC Developmental Biology9, no. 1 (2009): 3. doi:10.1186/1471-213x-9-3. [PDF][BibTex ]
+
+Mashanov, Vladimir S., Olga R. Zueva, Thomas Heinzeller, Beate Aschauer, Wilfried W. Naumann, Jesus M. Grondona, Manuel Cifuentes, and Jose E. Garcia-Arraras. "The Central Nervous System of Sea Cucumbers (Echinodermata: Holothuroidea) Shows Positive Immunostaining for a Chordate Glial Secretion."Front Zool Frontiers in Zoology6, no. 1 (2009): 11. doi:10.1186/1742-9994-6-11. [PDF][BibTex ]
+
+Ortiz-Pineda, Pablo A., Francisco Ramírez-Gómez, Judit Pérez-Ortiz, Sebastián González-Díaz, Francisco Santiago-De Jesús, Josue Hernández-Pasos, Cristina Del Valle-Avila, Carmencita Rojas-Cartagena, Edna C. Suárez-Castillo, Karen Tossas, Ana T. Méndez-Merced, José L. Roig-López, Humberto Ortiz-Zuazaga, and José E. García-Arrarás. "Gene Expression Profiling of Intestinal Regeneration in the Sea Cucumber."BMC Genomics10, no. 1 (2009): 262. doi:10.1186/1471-2164-10-262. [PDF] [BibTex ]
+
+Ramírez-Gómez, Francisco, Pablo A. Ortiz-Pineda, Gabriela Rivera-Cardona, and José E. García-Arrarás. "LPS-Induced Genes in Intestinal Tissue of the Sea Cucumber Holothuria Glaberrima."PLoS ONE4, no. 7 (2009). doi:10.1371/journal.pone.0006178. [PDF][BibTex ]
+
+###2008
+
+Ramírez-Gómez, Francisco, Pablo A. Ortíz-Pineda, Carmencita Rojas-Cartagena, Edna C. Suárez-Castillo, and José E. García-Arrarás. "Immune-related Genes Associated with Intestinal Tissue in the Sea Cucumber Holothuria Glaberrima."Immunogenetics60, no. 7 (2008): 409. doi:10.1007/s00251-008-0280-8. [PDF][BibTex ]
+
+###2007
+
+Díaz-Balzac, Carlos A., Guido Santacana-Laffitte, José E. San Miguel-Ruíz, Karen Tossas, Griselle Valentín-Tirado, Marisela Rives-Sánchez, Akram Mesleh, Irma I. Torres, and José E. García-Arrarás. "Identification of Nerve Plexi in Connective Tissues of the Sea CucumberHolothuria Glaberrimaby Using a Novel Nerve-Specific Antibody."The Biological Bulletin213, no. 1 (2007): 28-42. doi:10.2307/25066616. [PDF][BibTex ]
+
+Suárez-Castillo, Edna C., and José E. García-Arrarás. "Molecular evolution of the ependymin protein family: a necessary update."BMC Evolutionary Biology7, no. 1 (2007): 1. [PDF][BibTex ]
+
+Miguel-Ruiz, José E San, and José E. García-Arrarás. "Common Cellular Events Occur during Wound Healing and Organ Regeneration in the Sea Cucumber Holothuria Glaberrima."BMC Developmental Biology7, no. 1 (2007): 115. doi:10.1186/1471-213x-7-115. [PDF][BibTex ]
+
+Rojas-Cartagena, Carmencita, Pablo Ortíz-Pineda, Francisco Ramírez-Gómez, Edna C. Suárez-Castillo, Vanessa Matos-Cruz, Carlos Rodríguez, Humberto Ortíz-Zuazaga, and José E. García-Arrarás. "Distinct Profiles of Expressed Sequence Tags during Intestinal Regeneration in the Sea Cucumber Holothuria Glaberrima."Physiol. Genomics PhysiologicalGenomics31, no. 2 (2007): 203-15. doi:10.1152/physiolgenomics.00228.2006. [PDF][BibTex ]
+
+###2006
+
+Candelaria, Ann Ginette, Gisela Murray, Sharon K. File, and José E. García-Arrarás. "Contribution of Mesenterial Muscle Dedifferentiation to Intestine Regeneration in the Sea Cucumber Holothuria Glaberrima."Cell and Tissue Research325, no. 1 (2006): 55-65. doi:10.1007/s00441-006-0170-z. [PDF][BibTex ]
+
+García-Arrarás, José E., Christian Schenk, Roxanna Rodrígues-Ramírez, Irma I. Torres, Griselle Valentín, and Ann Ginette Candelaria. "Spherulocytes in the EchinodermHolothuria Glaberrimaand Their Involvement in Intestinal Regeneration."Developmental Dynamics235, no. 12 (2006): 3259-267. doi:10.1002/dvdy.20983. [PDF][BibTex ]
+
+###2004
+
+Cabrera-Serrano, Arelys, and José E. García-Arrarás. "RGD-containing Peptides Inhibit Intestinal Regeneration in the Sea Cucumber Holothuria Glaberrima."Developmental Dynamics231, no. 1 (2004): 171-78. doi:10.1002/dvdy.20112. [PDF][BibTex ]
+
+Suárez-Castillo, Edna C., Wanda E. Medina-Ortı́z, José L. Roig-López, and José E. Garcı́a-Arrarás. "Ependymin, a Gene Involved in Regeneration and Neuroplasticity in Vertebrates, Is Overexpressed during Regeneration in the Echinoderm Holothuria Glaberrima."Gene334 (2004): 133-43. doi:10.1016/j.gene.2004.03.023. [PDF][BibTex ]
+
+Murray, Gisela, and JoséE. García-Arrarás. "Myogenesis during Holothurian Intestinal Regeneration."Cell and Tissue Research318, no. 3 (2004): 515-24. doi:10.1007/s00441-004-0978-3. [PDF][BibTex ]
+
+###2003
+
+Santiago-Cardona, Pedro G., César A. Berrı́os, Francisco Ramı́rez, and José E. Garcı́a-Arrarás. "Lipopolysaccharides Induce Intestinal Serum Amyloid A Expression in the Sea Cucumber Holothuria Glaberrima."Developmental & Comparative Immunology27, no. 2 (2003): 105-10. doi:10.1016/s0145-305x(02)00068-x. [PDF][BibTex ]
+
+Barreto-Estrada, J. "The Morphological and Biochemical Response of Avian Embryonic Sympathoadrenal Cells to Nerve Growth Factor Is Developmentally Regulated."Developmental Brain Research144, no. 1 (2003): 1-8. doi:10.1016/s0165-3806(03)00129-9. [PDF][BibTex ]
+
+###2002
+
+Quiñones, José L., Rey Rosa, Dorcas L. Ruiz, and José E. García-Arrarás. "Extracellular Matrix Remodeling and Metalloproteinase Involvement during Intestine Regeneration in the Sea Cucumber Holothuria Glaberrima."Developmental Biology250, no. 1 (2002): 181-97. doi:10.1006/dbio.2002.0778. [PDF][BibTex ]
+
+###2001
+
+Roig-Lopez, Jose L., Pedro Santiago, Carlos Santiago, Braulio Jimenez, and Jose E. Garcfa-Arraras. "Strategies to identity differentiallyexpressed genes during regeneration." InEchinoderms 2000: Proceedings of the 10th International Conference, Dunedin, 31 January-4 February 2000, p. 49. Aa Balkema, 2001. [PDF][BibTex ]
+
+García-Arrarás, José E., and Michael J. Greenberg. "Visceral Regeneration in Holothurians."Microscopy Research and Technique55, no. 6 (2001): 438-51. doi:10.1002/jemt.1189. [PDF][BibTex ]
+
+###2000
+
+Medina-Ortiz, Wanda E., and José E. Garcı́a-Arrarás. "Differential Regulation of NPY MRNA Expression in Embryonic Sympathetic and Chromaffin Cultures by NGF."Developmental Brain Research119, no. 1 (2000): 155-58. doi:10.1016/s0165-3806(99)00164-9. [PDF][BibTex ]
+
+Méndez, Ana T., José L. Roig-López, Pedro Santiago, Carlos Santiago, and José E. García-Arrarás. "Identification of Hox Gene Sequences in the Sea Cucumber Holothuria Glaberrima Selenka (Holothuroidea: Echinodermata)."Mar. Biotechnol.Marine Biotechnology2, no. 3 (2000): 231-40. doi:10.1007/s101269900027. [PDF][BibTex ]
+
+Santiago, Pedro, JoséLuis Roig-López, Carlos Santiago, and JoséE. García-Arrarás. "Serum Amyloid A Protein in an Echinoderm: Its Primary Structure and Expression during Intestinal Regeneration in the Sea CucumberHolothuria Glaberrima."Journal of Experimental Zoology288, no. 4 (2000): 335-44. doi:10.1002/1097-010x(20001215)288:43.0.co;2-1. [PDF][BibTex ]
+
+###Older
+
+Silva, W. I., N. Santiago, J. E. García-Arrarás, and B. Carrasquillo. "Electroimmunoblotting of neuropeptide Y: application to the rat vas deferens."Neuroscience letters109, no. 1 (1990): 191-195. [PDF][BibTex ]
+
+García-Arrarás, José E., and Rolando Martínez. "Developmental expression of serotonin-like immunoreactivity in the sympathoadrenal system of the chicken."Cell and tissue research262, no. 2 (1990): 363-372.[PDF][BibTex ]
+
+Garciá-Arrarás, José E. "Modulation of neuropeptide expression in avian embryonic sympathetic cultures."Developmental brain research60, no. 1 (1991): 19-27.[PDF][BibTex ]
+
+García-Arrarás, José E, Ilia Torres-Avillán, and Sonia Ortíz-Miranda. "Cells in the intestinal system of holoturians (echinodermata) express cholecystokinin-like immunoreactivity."General and comparative endocrinology83, no. 2 (1991): 233-242 .[PDF][BibTex ]
+
+Díaz-Miranda, Lucy, Gladys Escalona de Motta, and José E. García-Arrarás. "Localization of neuropeptides in the nervous system of the marine annelidSabellastarte magnifica."Cell and tissue research266, no. 1 (1991): 209-217.[PDF][BibTex ]
+
+García-Arrarás, José E, Ileana Enamorado-Ayala, Ilia Torres-Avillán, and Víctor Rivera. "FMRFamide-like immunoreactivity in cells and fibers of the holothurian nervous system."Neuroscience letters132, no. 2 (1991): 199-202.[PDF][BibTex ]
+
+Díaz‐Miranda, Lucy, Gladys Escalona de Motta, and José E. García‐Arrarás. "Monoamines and neuropeptides as transmitters in the sedentary polychaete Sabellastarte magnifica: actions on the longitudinal muscle of the body wall."Journal of Experimental Zoology263, no. 1 (1992): 54-67.[PDF][BibTex ]
+
+Díaz-Miranda, Lucy, David A. Price, Michael J. Greenberg, Terry D. Lee, Karen E. Doble, and José E. García-Arrarás. "Characterization of two novel neuropeptides from the sea cucumber Holothuria glaberrima."The Biological Bulletin182, no. 2 (1992): 241-247.[PDF][BibTex ]
+
+García-Arrarás, J. E., A. M. Lugo-Chinchilla, and I. Chevere-Colon. "The expression of neuropeptide Y immunoreactivity in the avian sympathoadrenal system conforms with two models of coexpression development for neurons and chromaffin cells."Development115, no. 2 (1992): 617-627.[PDF][BibTex ]
+
+Smith, J., S. Vyas, and J. E. Garcia‐Arraras. "Selective modulation of cholinergic properties in cultures of avian embryonic sympathetic ganglia."Journal of neuroscience research34, no. 3 (1993): 346-356.[PDF][BibTex ]
+
+García-Arrarás, JoséE, and Eduardo Viruet. "Enteric nerve fibers of holothurians are recognized by an antibody to acetylated α-tubulin."Neuroscience letters157, no. 2 (1993): 153-156.[PDF][BibTex ]
+
+Bennett, Mark K., JoséE Garcia-Arrarás, Lisa A. Elferink, Karen Peterson, Anne M. Fleming, Christopher D. Hazuka, and Richard H. Scheller. "The syntaxin family of vesicular transport receptors."Cell74, no. 5 (1993): 863-873.[PDF][BibTex ]
+
+García-Arrarás, J. E. "Localization of peptides: double labeling immunohistochemistry."Handbook of endocrine research treatment. Academic Press, San Diego(1993): 207-225.[BibTex ]
+
+Díaz‐Miranda, L., Rosa E. Blanco, and José E. García‐Arrarás. "Localization of the heptapeptide GFSKLYFamide in the sea cucumber Holothuria glaberrima (Echinodermata): a light and electron microscopic study."Journal of Comparative Neurology352, no. 4 (1995): 626-640. [PDF][BibTex ]
+
+Maynard-Salgado, G. and GarcíaArrarás, J. E.. "Depolarization effects on the peptidergic phenotypes of chick sympathetic and adrenal cells."Brain research676, no. 2 (1995): 268-276.[PDF][BibTex ]
+
+Ramírez-Ordóñez, Rosaura, and JoséE García-Arrarás. "Peptidergic, catecholaminergic and morphological properties of avian chromaffin cells are modulated distinctively by growth factors."Developmental brain research87, no. 2 (1995): 160-171.[PDF][BibTex ]
+
+Díaz-Miranda, L., and J. E. García-Arrarás. "Pharmacological action of the heptapeptide GFSKLYFamide in the muscle of the sea cucumber Holothuria glaberrima (Echinodermata)."Comparative Biochemistry and Physiology Part C: Pharmacology, Toxicologyand Endocrinology110, no. 2 (1995): 171-176.[PDF][BibTex ]
+
+Díaz-Miranda, Lucy, Cecilio F. Pardo-Reoyo, Roselynn Martínez, and José E. García-Arrarás. "Galanin-like immunoreactivity in the sea cucumber Holothuria glaberrima."Cell and tissue research286, no. 3 (1996): 385-391.[PDF][BibTex ]
+
+Schober, Andreas, Liliana Minichiello, Markus Keller, Katrin Huber, Paul G. Layer, José L. Roig-López, José E. Garcı́a-Arrarás, Rüdiger Klein, and Klaus Unsicker. "Reduced acetylcholinesterase (AChE) activity in adrenal medulla and loss of sympathetic preganglionic neurons in TrkA-deficient, but not TrkB-deficient, mice."TheJournal of neuroscience17, no. 3 (1997): 891-903.[BibTex ]
+
+Barreto-Estrada, J. L., L. Medina-Vera, De Jesús-Escobar, and J. E. Garcia-Arraras. "Development of galanin-and enkephalin-like immunoreactivities in the sympathoadrenal lineage of the avian embryo."Developmental neuroscience19, no. 4 (1997): 328-336.[PDF][BibTex ]
+
+Deimling, Frauke, Susetta Finotto, Karin Lindner, Barbara Brühl, Jose L. Roig-Lopez, Jose E. Garcia-Arraras, Christo Goridis, Kerstin Krieglstein, and Klaus Unsicker. "Characterization of adrenal chromaffin progenitor cells in mice."Advances in Pharmacology42 (1997): 932-935. [PDF][BibTex ]
+
+García‐Arrarás, José E., Lourdes Estrada‐Rodgers, Roberto Santiago, Irma I. Torres, Lucy Díaz‐Miranda, and Ilia Torres‐Avillán. "Cellular mechanisms of intestine regeneration in the sea cucumber, Holothuria glaberrima Selenka (Holothuroidea: Echinodermata)."Journal of Experimental Zoology281, no. 4 (1998): 288-304.[PDF][BibTex ]
+
+García-Arrarás, José E., Ilia Torres-Avillán, and JE García Arrarás. "Developmental expression of galanin-like immunoreactivity by members of the avian sympathoadrenal cell lineage."Cell and tissue research295, no. 1 (1999): 33-41.[PDF][BibTex ]
+
+García‐Arrarás, José E., Lucy Díaz‐Miranda, Irma I. Torres, Sharon File, Luis B. Jiménez, Katherine Rivera‐Bermudez, Edgardo J. Arroyo, and William Cruz. "Regeneration of the enteric nervous system in the sea cucumber Holothuria glaberrima."Journal of comparative Neurology406, no. 4 (1999): 461-475.[PDF][BibTex ]
+
+Damon, Deborah H. "TH and NPY in sympathetic neurovascular cultures: role of LIF and NT-3."American Journal of Physiology-Cell Physiology294, no. 1 (2008): C306-C312.[PDF][BibTex ]
+
+Finotto, Susetta, Kerstin Krieglstein, Andreas Schober, Frauke Deimling, Karin Lindner, B. Bruhl, Konstantin Beier et al. "Analysis of mice carrying targeted mutations of the glucocorticoid receptor gene argues against an essential role of glucocorticoid signalling for generating adrenal chromaffin cells."Development126, no. 13 (1999): 2935-2944.[PDF][BibTex ]
+
+###Other
+
+Pappenheimer, J.r., J.m. Krueger, and J. Garcia-Arraras. "Properties Of Sleep-Promoting Factor S Derived From Human Urine."Environmental Physiology, 1981, 95-99. doi:10.1016/b978-0-08-027339-6.50017-8. [PDF]
+
+Garcia-Arraras, J. E. "Effects of sleep-promoting factor from human urine on sleep cycle of cats."American Journal of Physiology-Endocrinology and Metabolism241, no. 4 (1981): E269-E274. [PDF]
+
+García-Arrarás, J.E. Humoral induction of sleep. Ph.D. Thesis Harvard University, June 1981.
+
+Garcia-Arraras, J. E., and J. R. Pappenheimer. "Site of action of sleep-inducing muramyl peptide isolated from human urine: microinjection studies in rabbit brains."Journal of neurophysiology49, no. 2 (1983): 528-533. [PDF]
+
+Garcia-Arraras, J. E.,Chanconie, M.,and Fontaine-Perus, J. "In vivo and in vitro development of somatostatin-like-immunoreactivity in the peripheral nervous system of quail embryos."The Journal of neuroscience4, no. 6 (1984): 1549-1558. [PDF]
+
+García-Arrarás, José E, Mireille Fauquet, Marcelle Chanconie, and Julian Smith. "Coexpression of somatostatin-like immunoreactivity and catecholaminergic properties in neural crest derivatives: comodulation of peptidergic and adrenergic differentiation in cultured neural crest."Developmental biology114, no. 1 (1986): 247-257. [PDF]
+
+García-Arrarás, José E, Takayuki Murakoshi, Mitsuhiko Yanagisawa, and Masanori Otsuka. "Descending inhibition of slow spinal reflex in an in vitro preparation of the newborn rat and its possible involvement in pain control."Brain research379, no. 1 (1986): 188-191. [PDF]
+
+Yanagisawa, Mitsuhiko, Masanori Otsuka, and JoséE García-Arrarás. "E-type prostaglandins depolarize primary afferent neurons of the neonatal rat."Neuroscience letters68, no. 3 (1986): 351-355. [PDF]
+
+García-Arrarás, JoséE, Marcelle Chanconie, Catherine Ziller, and Mireille Fauquet. "In vivo and in vitro expression of vasoactive intestinal polypeptide-like immunoreactivity by neural crest derivatives."Developmental Brain Research33, no. 2 (1987): 255-265. [PDF]
+
+Garcia Arraras, J. E., S. Diaz, and M. Agosto. "Development of neuropeptides in the sympathoadrenal system of birds and mammals: a short review."PR health Sci. J.7, no. 2 (1988): 88-92.
+
+Mashanov VS, Zueva OR, García-Arrarás JE.Inhibition of cell proliferation does not slow down echinoderm neural regeneration.Front Zool 14:12, 2017.

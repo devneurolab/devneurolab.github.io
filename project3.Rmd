@@ -1,0 +1,12 @@
+---
+title: "Holothuria glaberrima Transcriptomics"
+---
+***
+<center>
+![](statics/images/img3.png){width=700px}
+
+***
+
+Our laboratory has generated an expressed sequence tag (EST) database for H. glaberrima. Initially, the sequences were obtained from three cDNA libraries, one made from non-eviscerated (normal) intestinal tissue, and two from regenerating (3-days and 5-7-days after evisceration). We have now applied Next Generation Sequencing using Roche 454 and Illumina technologies and have obtained over 2 million ESTs from intestinal and nervous tissues of normal and regenerating animals. These sequences are being assembled to provide the first transcriptome of normal and regenerating organs. 
+
+</center>
