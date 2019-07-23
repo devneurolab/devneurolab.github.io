@@ -153,36 +153,193 @@ Lab Technicians
 
 ####Undergraduate Students
 
-* Alexandra Amador
-* Ariana Caraballo
-* Sebastian Cruz
-* Angela Colon
-* Alejandro Cedeno
-* Raul Garcia-Rosario
-* Ruben Garcia
-* Cristina Gerena
-* Carlos Martinez
-* Luis Medina
-* Thaybet Malave
-* Omar Perez
-* Eduardo Quesada
-* Tathana Rivera
-* Carlos Rodriguez
-* Wilyaret Rodriguez
-* Angelica Romero
-* Joseph Salem
-* Kidianys Sanchez
-* Angel Sirfa
-* Fabiola Sotomayor
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Alexandra Amador</h5>
+  alexandra.amador@upr.edu<br />
+  </div>
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-        
 
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Sebastian Cruz</h5>
+  seba.2550@gmail.com<br />
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Angela Colón</h5>
+  angela.colon2@upr.edu<br />
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Alejandro Cedeño</h5>
+  alexandra.amador@upr.edu<br />
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Raúl Garcia-Rosario</h5>
+  raul.garcia1@upr.edu<br />
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Ruben Garcia</h5>
+  rubengarciareyes@gmail.com
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Cristina Gerena</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Carlos Martinez</h5>
+  carlos.martinez32@upr.edu
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Luis Medina</h5>
+  luismedina2119@gmail.com<br />
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Thaybet Malave</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Omar Perez</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Eduardo Quesada</h5>
+  eduardo.quesada@upr.edu
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Tathana Rivera</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Carlos Rodriguez</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Wilyaret Rodriguez</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Angelica Romero</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/salem.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Joseph Salem</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Kidianys Sanchez</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Angel Sirfa</h5>
+  angel.sirfa@upr.edu
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5>Fabiola Sotomayor</h5>
+  alexandra.amador@upr.edu<br />
+  </div>
 </div>

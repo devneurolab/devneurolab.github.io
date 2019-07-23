@@ -41,11 +41,11 @@ Vazquez-Velez, G. E., J. F. Rodriguez-Molina, M. C. Quinones-Frias, M. Pagan, an
 
 ###2015
 
-Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Heterogeneous Generation of New Cells in the Adult Echinoderm Nervous System."Frontiers in Neuroanatomy9 (2015). doi:10.3389/fnana.2015.00123. [PDF][BibTex ]
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Heterogeneous Generation of New Cells in the Adult Echinoderm Nervous System."Frontiers in Neuroanatomy9 (2015). doi:10.3389/fnana.2015.00123. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/26441553) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585025/pdf/fnana-09-00123.pdf)
 
-Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Expression of Pluripotency Factors in Echinoderm Regeneration."Cell and Tissue Research359, no. 2 (2014): 521-36. doi:10.1007/s00441-014-2040-4. [PDF][BibTex ]
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Expression of Pluripotency Factors in Echinoderm Regeneration."Cell and Tissue Research359, no. 2 (2014): 521-36. doi:10.1007/s00441-014-2040-4. [[NCBI]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4323854/) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4323854/pdf/nihms-646387.pdf)
 
-Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Myc Regulates Programmed Cell Death and Radial Glia Dedifferentiation after Neural Injury in an Echinoderm."BMC Developmental Biology15, no. 1 (2015). doi:10.1186/s12861-015-0071-z. [PDF][BibTex ]
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Myc Regulates Programmed Cell Death and Radial Glia Dedifferentiation after Neural Injury in an Echinoderm."BMC Developmental Biology15, no. 1 (2015). doi:10.1186/s12861-015-0071-z. [[BMC]](https://bmcdevbiol.biomedcentral.com/articles/10.1186/s12861-015-0071-z) [[PDF]](https://bmcdevbiol.biomedcentral.com/track/pdf/10.1186/s12861-015-0071-z)
 
 ###2014
 
