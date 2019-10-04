@@ -49,21 +49,21 @@ Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Myc Regula
 
 ###2014
 
-Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Transcriptomic Changes during Regeneration of the Central Nervous System in an Echinoderm."BMC Genomics15, no. 1 (2014): 357. doi:10.1186/1471-2164-15-357. [PDF][BibTex ]
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Transcriptomic Changes during Regeneration of the Central Nervous System in an Echinoderm."BMC Genomics15, no. 1 (2014): 357. doi:10.1186/1471-2164-15-357. [[BMC]](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-357) [[PDF]](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/1471-2164-15-357)
 
-Tossas, Karen, Sunny Qi-Huang, Eugenia Cuyar, and Jose E. García-Arrarás. "Temporal and Spatial Analysis of Enteric Nervous System Regeneration in the Sea CucumberHolothuria Glaberrima."Regeneration1, no. 3 (2014): 10-26. doi:10.1002/reg2.15. [PDF][BibTex ]
+Tossas, Karen, Sunny Qi-Huang, Eugenia Cuyar, and Jose E. García-Arrarás. "Temporal and Spatial Analysis of Enteric Nervous System Regeneration in the Sea CucumberHolothuria Glaberrima."Regeneration1, no. 3 (2014): 10-26. doi:10.1002/reg2.15. [[Wiley]](https://onlinelibrary.wiley.com/doi/full/10.1002/reg2.15) [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/reg2.15)
 
-Díaz-Balzac, Carlos A., Lionel D. Vázquez-Figueroa, and José E. García-Arrarás. "Novel Markers Identify Nervous System Components of the Holothurian Nervous System."Invertebrate Neuroscience14, no. 2 (2014): 113-25. doi:10.1007/s10158-014-0169-1. [PDF][BibTex ]
+Díaz-Balzac, Carlos A., Lionel D. Vázquez-Figueroa, and José E. García-Arrarás. "Novel Markers Identify Nervous System Components of the Holothurian Nervous System."Invertebrate Neuroscience14, no. 2 (2014): 113-25. doi:10.1007/s10158-014-0169-1. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/24740637) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4250093/pdf/nihms645017.pdf)
 
-Bello, Samir A., Ricardo J. Abreu-Irizarry, and José E. García-Arrarás. "Primary Cell Cultures of Regenerating Holothurian Tissues."Methods in Molecular Biology Tissue Morphogenesis, 2014, 283-97. doi:10.1007/978-1-4939-1164-6_19. [PDF][BibTex ]
+Bello, Samir A., Ricardo J. Abreu-Irizarry, and José E. García-Arrarás. "Primary Cell Cultures of Regenerating Holothurian Tissues."Methods in Molecular Biology Tissue Morphogenesis, 2014, 283-97. doi:10.1007/978-1-4939-1164-6_19. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/25245701) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5426911/pdf/nihms856683.pdf)
 
-Soto-Acaba, Arisnel, Pablo Ortiz-Pineda, Josue Hernandez-Pasos, and Jose Garcia-Arraras. "Orpin and its isoform are novel putative calcium binding proteins associated to intestinal and nerve regeneration in the sea cucumber Holothuria glaberrima (651.22)."The FASEB Journal28, no. 1 Supplement (2014): 651-22. [PDF][BibTex ]
+Soto-Acaba, Arisnel, Pablo Ortiz-Pineda, Josue Hernandez-Pasos, and Jose Garcia-Arraras. "Orpin and its isoform are novel putative calcium binding proteins associated to intestinal and nerve regeneration in the sea cucumber Holothuria glaberrima (651.22)."The FASEB Journal28, no. 1 Supplement (2014): 651-22. [[FASEB]](https://www.fasebj.org/doi/abs/10.1096/fasebj.28.1_supplement.651.22)
 
 ###2013
 
-Huang, Sunny Qi, and José E. García-Arrarás. "Characterization of the intestinal tract neuroendocrine cells in normal and regenerating Holothuria glaberrima."The FASEB Journal27, no. 1 Supplement (2013): 797-1. [PDF][BibTex ]
+Huang, Sunny Qi, and José E. García-Arrarás. "Characterization of the intestinal tract neuroendocrine cells in normal and regenerating Holothuria glaberrima."The FASEB Journal27, no. 1 Supplement (2013): 797-1.
 
-Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Radial Glial Cells Play a Key Role in Echinoderm Neural Regeneration."BMC Biology11, no. 1 (2013): 49. doi:10.1186/1741-7007-11-49. [PDF][BibTex ]
+Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Radial Glial Cells Play a Key Role in Echinoderm Neural Regeneration."BMC Biology11, no. 1 (2013): 49. doi:10.1186/1741-7007-11-49. [[BMC]](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-11-49) [[PDF]](https://bmcbiol.biomedcentral.com/track/pdf/10.1186/1741-7007-11-49)
 
 ###2012
 

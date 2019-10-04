@@ -1,5 +1,5 @@
 ---
-title: "<h1 style=\"text-align:center;\">Developmental Neurobiology Laboratory</h1>"
+title: "<h1 style=\"text-align:center;color:#003366\">Developmental Neurobiology Laboratory</h1>"
 ---
 
 <center>

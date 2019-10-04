@@ -1,9 +1,10 @@
 ---
-title: "Previous Members"
+title: "ALUMNI"
 ---
 ***
-<div class="members2">
-###Former
+<h3 style="padding:15px;">
+Former
+</h3>
 
 * Samuel Álvarez
 * Mayra Betancourt
@@ -31,5 +32,3 @@ title: "Previous Members"
 * Vanessa Torres
 * Rolando Vargas
 * Jorge Viera-Vera
-
-<br />

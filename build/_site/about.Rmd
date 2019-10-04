@@ -2,6 +2,7 @@
 title: "CURRENT MEMBERS"
 ---
 
+
 <!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,9 +20,9 @@ Lab Technicians
   <img src="statics/images/mio.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Miosotis Alicea Delgado</h5>
-  Laboratory Manager and Research Assistant <br />
-  aliceadelgadom@gmail.com
+  <h5 style="color:#003366">Miosotis Alicea Delgado</h5>
+  <p style = "font-size: 13px;">Research Assistant II</p>
+  <p style = "font-size: 12px;">aliceadelgadom@gmail.com</p>
   </div>
 </div>
 
@@ -30,22 +31,25 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  Griselle Valentin
+  <h5 style="color:#003366">Griselle Valentin</h5>
+  <p style = "font-size: 12px;">grvalentin@hotmail.com</p>
   </div>
 </div>
 
 ***
 
-####Grad Students
+<h3 style="padding:15px;">
+Grad Students
+</h3>
 
 <div class="w3-row" style="padding:20px;">
   <div class="w3-container w3-third">
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Samir Bello</h5>
-  PhD Student <br />
-  samir.bello3@gmail.com
+  <h5 style="color:#003366">Samir Bello</h5>
+  <p style = "font-size: 13px;">PhD Student</p>
+  <p style = "font-size: 12px;">samir.bello3@gmail.com</p>
   </div>
 </div>
 
@@ -54,9 +58,9 @@ Lab Technicians
   <img src="statics/images/lyma.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Lymarie Diaz-Diaz </h5>
-  PhD Student <br />
-  lymarie.diaz@upr.edu <br />
+  <h5 style="color:#003366">Lymarie Diaz-Diaz </h5>
+  <p style = "font-size: 13px;"> PhD Student | RISE Grad Student </p>
+  <p style = "font-size: 12px;">lymarie.diaz@upr.edu </p>
   <p style="font-size:12px;">I am currently characterizing the role of microbiota during regeneration processes on sea cucumber Holothuria glaberrima. The intestine is associated with a high density of microorganisms that regulate multiple processes, from metabolism to development and homeostasis of the whole body. With an organism that has an amazing potential to regenerate the whole digestive tract, we can study this processes in more depth. With this project, I aim to decipher the microbial association that are pivotal to regeneration, and what processes are influenced by those microorganisms. </p>
   </div>
 </div>
@@ -66,10 +70,9 @@ Lab Technicians
   <img src="statics/images/joshua.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Joshua G. Medina-Feliciano</h5>
-  PhD Graduate Student <br />
-  NSF Bridge to the Doctorate Program Fellow - Cohort XII <br />
-  joshua.medina8@upr.edu <br />
+  <h5 style="color:#003366">Joshua G. Medina-Feliciano</h5>
+  <p style = "font-size: 13px;">PhD Graduate Student | NSF Bridge to the Doctorate Program Fellow</p>
+  <p style = "font-size: 12px;">joshua.medina8@upr.edu</p>
   </div>
 </div>
 
@@ -78,7 +81,7 @@ Lab Technicians
   <img src="statics/images/david.JPG" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>David Quispe-Parra</h5>
+  <h5 style="color:#003366">David Quispe-Parra</h5>
   M.S. Student<br />
   davidjquispe@gmail.com<br />
   </div>
@@ -89,7 +92,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Eliel Rivera</h5>
+  <h5 style="color:#003366">Eliel Rivera</h5>
   M.S. Student<br />
   eliel.rivera@upr.edu<br />
   </div>
@@ -100,7 +103,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Jose Alexis Rodriguez</h5>
+  <h5 style="color:#003366">Jose Alexis Rodriguez</h5>
   M.S. Student<br />
   davidjquispe@gmail.com<br />
   </div>
@@ -111,7 +114,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Rey Rosa</h5>
+  <h5 style="color:#003366">Rey Rosa</h5>
   PhD Student<br />
   reyrosa@hotmail.com<br />
   </div>
@@ -122,7 +125,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Saely Rosado</h5>
+  <h5 style="color:#003366">Saely Rosado</h5>
   M.S. Student<br />
   saely.rosado@upr.edu<br />
   </div>
@@ -133,7 +136,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Fernando Ruiz</h5>
+  <h5 style="color:#003366">Fernando Ruiz</h5>
   M.S. Student<br />
   fernando.ruiz3@upr.edu<br />
   </div>
@@ -144,12 +147,13 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Arisnel Soto</h5>
+  <h5 style="color:#003366">Arisnel Soto</h5>
   PhD Student<br />
   arisnel_07@hotmail.com<br />
   </div>
 </div>
 
+***
 
 ####Undergraduate Students
 
@@ -158,7 +162,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Alexandra Amador</h5>
+  <h5 style="color:#003366">Alexandra Amador</h5>
   alexandra.amador@upr.edu<br />
   </div>
 </div>
@@ -168,7 +172,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Sebastian Cruz</h5>
+  <h5 style="color:#003366">Sebastian Cruz</h5>
   seba.2550@gmail.com<br />
   </div>
 </div>
@@ -178,7 +182,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Angela Colón</h5>
+  <h5 style="color:#003366">Angela Colón</h5>
   angela.colon2@upr.edu<br />
   </div>
 </div>
@@ -188,7 +192,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Alejandro Cedeño</h5>
+  <h5 style="color:#003366">Alejandro Cedeño</h5>
   alexandra.amador@upr.edu<br />
   </div>
 </div>
@@ -198,7 +202,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Raúl Garcia-Rosario</h5>
+  <h5 style="color:#003366">Raúl Garcia-Rosario</h5>
   raul.garcia1@upr.edu<br />
   </div>
 </div>
@@ -208,7 +212,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Ruben Garcia</h5>
+  <h5 style="color:#003366">Ruben Garcia</h5>
   rubengarciareyes@gmail.com
   </div>
 </div>
@@ -218,7 +222,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Cristina Gerena</h5>
+  <h5 style="color:#003366">Cristina Gerena</h5>
   </div>
 </div>
 
@@ -227,7 +231,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Carlos Martinez</h5>
+  <h5 style="color:#003366">Carlos Martinez</h5>
   carlos.martinez32@upr.edu
   </div>
 </div>
@@ -237,7 +241,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Luis Medina</h5>
+  <h5 style="color:#003366">Luis Medina</h5>
   luismedina2119@gmail.com<br />
   </div>
 </div>
@@ -247,7 +251,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Thaybet Malave</h5>
+  <h5 style="color:#003366">Thaybet Malave</h5>
   </div>
 </div>
 
@@ -256,7 +260,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Omar Perez</h5>
+  <h5 style="color:#003366">Omar Perez</h5>
   </div>
 </div>
 
@@ -265,7 +269,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Eduardo Quesada</h5>
+  <h5 style="color:#003366">Eduardo Quesada</h5>
   eduardo.quesada@upr.edu
   </div>
 </div>
@@ -275,7 +279,17 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Tathana Rivera</h5>
+  <h5 style="color:#003366">Tathana Rivera</h5>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/adrianna.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Adrianna M. Rivera-León</h5>
+  adrianna.rivera2@upr.edu
   </div>
 </div>
 
@@ -284,7 +298,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Carlos Rodriguez</h5>
+  <h5 style="color:#003366">Carlos Rodriguez</h5>
   </div>
 </div>
 
@@ -293,7 +307,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Wilyaret Rodriguez</h5>
+  <h5 style="color:#003366">Wilyaret Rodriguez</h5>
   </div>
 </div>
 
@@ -302,7 +316,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Angelica Romero</h5>
+  <h5 style="color:#003366">Angelica Romero</h5>
   </div>
 </div>
 
@@ -311,7 +325,8 @@ Lab Technicians
   <img src="statics/images/salem.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Joseph Salem</h5>
+  <h5 style="color:#003366">Joseph Salem</h5>
+  joseph.salem@upr.edu
   </div>
 </div>
 
@@ -320,7 +335,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Kidianys Sanchez</h5>
+  <h5 style="color:#003366">Kidianys Sanchez</h5>
   </div>
 </div>
 
@@ -329,7 +344,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Angel Sirfa</h5>
+  <h5 style="color:#003366">Angel Sirfa</h5>
   angel.sirfa@upr.edu
   </div>
 </div>
@@ -339,7 +354,7 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5>Fabiola Sotomayor</h5>
+  <h5 style="color:#003366">Fabiola Sotomayor</h5>
   alexandra.amador@upr.edu<br />
   </div>
 </div>
