@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
 <title>ALUMNI</title>
 
+<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -86,7 +87,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +235,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +247,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -356,34 +345,52 @@ $(document).ready(function () {
 Former
 </h3>
 <ul>
-<li>Samuel Álvarez</li>
-<li>Samir Bello, PhD | <a href="mailto:samir.bello3@gmail.com">samir.bello3@gmail.com</a></li>
-<li>Mayra Betancourt</li>
-<li>Sarah Colón</li>
-<li>Stephanie Colón</li>
-<li>Alejandro Cedeño</li>
-<li>Charlotte De Jesús</li>
-<li>Daniela Díaz-Rubayo</li>
-<li>Paola Figueroa-Delgado</li>
-<li>Daniel Fontanez</li>
-<li>Valentina Grillo</li>
-<li>Sonya Jadaas Malavez</li>
-<li>Javier Jusino</li>
-<li>Edward Lugo</li>
-<li>Sergio Maldonado</li>
-<li>Eveliz Peguero</li>
 <li>Adrianna M. Rivera-León</li>
-<li>Josean Reyes Rivera</li>
-<li>Gabriela Rodríguez Morales</li>
-<li>Rey Rosa</li>
-<li>Pablo Rosado</li>
-<li>Natalia Rosario</li>
-<li>Arisnel Soto</li>
+<li>Alejandro Cedeño</li>
+<li>Alexandra Amador</li>
+<li>Angel Sirfa</li>
+<li>Angela Colon</li>
+<li>Angelica Romero</li>
+<li>Arisnel Soto, PhD</li>
 <li>Ashley Soriano</li>
-<li>Natalia Torres</li>
-<li>Vanessa Torres</li>
-<li>Rolando Vargas</li>
+<li>Carlos Martinez</li>
+<li>Carlos Rodriguez</li>
+<li>Charlotte De Jesús</li>
+<li>Cristina Gerena</li>
+<li>Daniel Fontanez</li>
+<li>Daniela Díaz-Rubayo</li>
+<li>Edward Lugo</li>
+<li>Eveliz Peguero</li>
+<li>Fabiola Sotomayor</li>
+<li>Gabriela Rodríguez Morales</li>
+<li>Javier Jusino</li>
 <li>Jorge Viera-Vera</li>
+<li>Jose Alexis Rodriguez, M.S.</li>
+<li>Josean Reyes Rivera</li>
+<li>Joseph Salem</li>
+<li>Kidianys Sanchez</li>
+<li>Luis Medina</li>
+<li>Mayra Betancourt</li>
+<li>Miosotis Alicea Delgado, M.S.</li>
+<li>Natalia Rosario</li>
+<li>Natalia Torres</li>
+<li>Pablo Rosado</li>
+<li>Paola Figueroa-Delgado</li>
+<li>Raul García</li>
+<li>Rey Rosa</li>
+<li>Rolando Vargas</li>
+<li>Ruben García</li>
+<li>Samir Bello, PhD</li>
+<li>Samuel Álvarez</li>
+<li>Sarah Colón</li>
+<li>Sebastian Cruz</li>
+<li>Sergio Maldonado</li>
+<li>Sonya Jadaas Malavez</li>
+<li>Stephanie Colón</li>
+<li>Tathana Rivera</li>
+<li>Valentina Grillo</li>
+<li>Vanessa Torres</li>
+<li>Wilyaret Rodriguez</li>
 </ul>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -417,6 +424,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

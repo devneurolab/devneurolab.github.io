@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
 <title>CURRENT MEMBERS</title>
 
+<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -86,7 +87,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +235,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +247,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -351,9 +340,8 @@ $(document).ready(function () {
 </div>
 
 
-<!DOCTYPE html>
 <html>
-<p><meta name="viewport" content="width=device-width, initial-scale=1"></p>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <p><link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"></p>
 <hr />
 <h3 style="padding:15px;">
@@ -371,7 +359,7 @@ Miosotis Alicea Delgado
 Research Assistant II
 </p>
 <p style="font-size: 12px;">
-<a href="mailto:aliceadelgadom@gmail.com">aliceadelgadom@gmail.com</a>
+<a href="mailto:aliceadelgadom@gmail.com" class="email">aliceadelgadom@gmail.com</a>
 </p>
 </div>
 </div>
@@ -384,7 +372,7 @@ Research Assistant II
 Griselle Valentin
 </h5>
 <p style="font-size: 12px;">
-<a href="mailto:grvalentin@hotmail.com">grvalentin@hotmail.com</a>
+<a href="mailto:grvalentin@hotmail.com" class="email">grvalentin@hotmail.com</a>
 </p>
 </div>
 </div>
@@ -404,7 +392,7 @@ Lymarie Diaz-Diaz
 PhD Student | RISE Grad Student
 </p>
 <p style="font-size: 12px;">
-<a href="mailto:lymarie.diaz@upr.edu">lymarie.diaz@upr.edu</a>
+<a href="mailto:lymarie.diaz@upr.edu" class="email">lymarie.diaz@upr.edu</a>
 </p>
 <p style="font-size:12px;">
 I am currently characterizing the role of microbiota during regeneration processes on sea cucumber Holothuria glaberrima. The intestine is associated with a high density of microorganisms that regulate multiple processes, from metabolism to development and homeostasis of the whole body. With an organism that has an amazing potential to regenerate the whole digestive tract, we can study this processes in more depth. With this project, I aim to decipher the microbial association that are pivotal to regeneration, and what processes are influenced by those microorganisms.
@@ -420,14 +408,25 @@ I am currently characterizing the role of microbiota during regeneration process
 Joshua G. Medina-Feliciano
 </h5>
 <p style="font-size: 13px;">
-PhD Graduate Student | NSF Bridge to the Doctorate Program Fellow
+PhD Student | NSF Bridge to the Doctorate Program Fellow
 </p>
 <p style="font-size: 12px;">
-<a href="mailto:joshua.medina8@upr.edu">joshua.medina8@upr.edu</a>
+<a href="mailto:joshua.medina8@upr.edu" class="email">joshua.medina8@upr.edu</a>
 </p>
 <p style="font-size:12px;">
 Currently, my projects are focused towards the understanding of regeneration of the sea cucumber from a genomic aspect. Particularly, I am working towards generation of new genomic data that can provide an insight into the molecular aspects of regeneration.
 </p>
+</div>
+</div>
+<div class="w3-row" style="padding:20px;">
+<div class="w3-container w3-third">
+<img src="statics/images/jd.jpg" style="width:80%;">
+</div>
+<div class="w3-container w3-twothird">
+<h5 style="color:#003366">
+Yamil Miranda
+</h5>
+PhD Student | NSF Bridge to the Doctorate Program Fellow<br /> <a href="mailto:yamil.miranda1@upr.edu" class="email">yamil.miranda1@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -438,7 +437,18 @@ Currently, my projects are focused towards the understanding of regeneration of 
 <h5 style="color:#003366">
 David Quispe-Parra
 </h5>
-M.S. Student<br /> <a href="mailto:davidjquispe@gmail.com">davidjquispe@gmail.com</a><br />
+M.S. Student<br /> <a href="mailto:davidjquispe@gmail.com" class="email">davidjquispe@gmail.com</a><br />
+</div>
+</div>
+<div class="w3-row" style="padding:20px;">
+<div class="w3-container w3-third">
+<img src="statics/images/jd.jpg" style="width:80%;">
+</div>
+<div class="w3-container w3-twothird">
+<h5 style="color:#003366">
+Adbiel Rodriguez
+</h5>
+M.S. Student<br /> <a href="mailto:adbiel.rodriguez@upr.edu" class="email">adbiel.rodriguez@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -449,29 +459,7 @@ M.S. Student<br /> <a href="mailto:davidjquispe@gmail.com">davidjquispe@gmail.co
 <h5 style="color:#003366">
 Eliel Rivera
 </h5>
-M.S. Student<br /> <a href="mailto:eliel.rivera@upr.edu">eliel.rivera@upr.edu</a><br />
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/jd.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Jose Alexis Rodriguez
-</h5>
-M.S. Student<br /> <a href="mailto:davidjquispe@gmail.com">davidjquispe@gmail.com</a><br />
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/jd.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Rey Rosa
-</h5>
-PhD Student<br /> <a href="mailto:reyrosa@hotmail.com">reyrosa@hotmail.com</a><br />
+M.S. Student<br /> <a href="mailto:eliel.rivera@upr.edu" class="email">eliel.rivera@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -482,7 +470,7 @@ PhD Student<br /> <a href="mailto:reyrosa@hotmail.com">reyrosa@hotmail.com</a><b
 <h5 style="color:#003366">
 Saely Rosado
 </h5>
-M.S. Student<br /> <a href="mailto:saely.rosado@upr.edu">saely.rosado@upr.edu</a><br />
+M.S. Student<br /> <a href="mailto:saely.rosado@upr.edu" class="email">saely.rosado@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -493,43 +481,22 @@ M.S. Student<br /> <a href="mailto:saely.rosado@upr.edu">saely.rosado@upr.edu</a
 <h5 style="color:#003366">
 Fernando Ruiz
 </h5>
-M.S. Student<br /> <a href="mailto:fernando.ruiz3@upr.edu">fernando.ruiz3@upr.edu</a><br />
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/jd.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Arisnel Soto
-</h5>
-PhD Student<br /> <a href="mailto:arisnel_07@hotmail.com">arisnel_07@hotmail.com</a><br />
+M.S. Student<br /> <a href="mailto:fernando.ruiz3@upr.edu" class="email">fernando.ruiz3@upr.edu</a><br />
 </div>
 </div>
 <hr />
-<div id="undergraduate-students" class="section level4">
-<h4>Undergraduate Students</h4>
+<h3>
+Undergraduate Students
+</h3>
 <div class="w3-row" style="padding:20px;">
 <div class="w3-container w3-third">
 <img src="statics/images/jd.jpg" style="width:80%;">
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Alexandra Amador
+Adrian Medina
 </h5>
-<a href="mailto:alexandra.amador@upr.edu">alexandra.amador@upr.edu</a><br />
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/seba.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Sebastian Cruz
-</h5>
-<a href="mailto:seba.2550@gmail.com">seba.2550@gmail.com</a><br />
+<a href="mailto:adrian.medina2@upr.edu" class="email">adrian.medina2@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -538,9 +505,9 @@ Sebastian Cruz
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Angela Colón
+Amanda Morales
 </h5>
-<a href="mailto:angela.colon2@upr.edu">angela.colon2@upr.edu</a><br />
+<a href="mailto:amanda.morales4@upr.edu" class="email">amanda.morales4@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -549,9 +516,9 @@ Angela Colón
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Raúl Garcia-Rosario
+Andrea Rodriguez
 </h5>
-<a href="mailto:raul.garcia1@upr.edu">raul.garcia1@upr.edu</a><br />
+<a href="mailto:raul.garcia1@upr.edu" class="email">raul.garcia1@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -560,61 +527,9 @@ Raúl Garcia-Rosario
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Ruben Garcia
+Diego Calo
 </h5>
-<a href="mailto:rubengarciareyes@gmail.com">rubengarciareyes@gmail.com</a>
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/jd.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Cristina Gerena
-</h5>
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/jd.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Carlos Martinez
-</h5>
-<a href="mailto:carlos.martinez32@upr.edu">carlos.martinez32@upr.edu</a>
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/jd.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Luis Medina
-</h5>
-<a href="mailto:luismedina2119@gmail.com">luismedina2119@gmail.com</a><br />
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/jd.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Thaybet Malave
-</h5>
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/jd.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Omar Perez
-</h5>
+<a href="mailto:diego.calo@upr.edu" class="email">diego.calo@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -625,7 +540,7 @@ Omar Perez
 <h5 style="color:#003366">
 Eduardo Quesada
 </h5>
-<a href="mailto:eduardo.quesada@upr.edu">eduardo.quesada@upr.edu</a>
+<a href="mailto:eduardo.quesada@upr.edu" class="email">eduardo.quesada@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -634,19 +549,9 @@ Eduardo Quesada
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Tathana Rivera
+Emil Gonzalez
 </h5>
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/adrianna.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Adrianna M. Rivera-León
-</h5>
-<a href="mailto:adrianna.rivera2@upr.edu">adrianna.rivera2@upr.edu</a>
+<a href="mailto:emil.gonzalez@upr.edu" class="email">emil.gonzalez@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -655,8 +560,9 @@ Adrianna M. Rivera-León
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Carlos Rodriguez
+Karina Peña
 </h5>
+<a href="mailto:karina.pena@upr.edu" class="email">karina.pena@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -665,8 +571,9 @@ Carlos Rodriguez
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Wilyaret Rodriguez
+Kianna Franco
 </h5>
+<a href="mailto:kianna.franco@upr.edu" class="email">kianna.franco@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -675,19 +582,9 @@ Wilyaret Rodriguez
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Angelica Romero
+Naomi Cruz
 </h5>
-</div>
-</div>
-<div class="w3-row" style="padding:20px;">
-<div class="w3-container w3-third">
-<img src="statics/images/salem.jpg" style="width:80%;">
-</div>
-<div class="w3-container w3-twothird">
-<h5 style="color:#003366">
-Joseph Salem
-</h5>
-<a href="mailto:joseph.salem@upr.edu">joseph.salem@upr.edu</a>
+<a href="mailto:naomi.cruz1@upr.edu" class="email">naomi.cruz1@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -696,8 +593,9 @@ Joseph Salem
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Kidianys Sanchez
+Omar Morales
 </h5>
+<a href="mailto:omar.morales10@upr.edu" class="email">omar.morales10@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -706,9 +604,9 @@ Kidianys Sanchez
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Angel Sirfa
+Omar Perez
 </h5>
-<a href="mailto:angel.sirfa@upr.edu">angel.sirfa@upr.edu</a>
+<a href="mailto:omar.perez17@upr.edu" class="email">omar.perez17@upr.edu</a><br />
 </div>
 </div>
 <div class="w3-row" style="padding:20px;">
@@ -717,10 +615,64 @@ Angel Sirfa
 </div>
 <div class="w3-container w3-twothird">
 <h5 style="color:#003366">
-Fabiola Sotomayor
+Silvia Blanco
 </h5>
-<br />
+<a href="mailto:silvia.blanco@upr.edu" class="email">silvia.blanco@upr.edu</a><br />
 </div>
+</div>
+<div class="w3-row" style="padding:20px;">
+<div class="w3-container w3-third">
+<img src="statics/images/jd.jpg" style="width:80%;">
+</div>
+<div class="w3-container w3-twothird">
+<h5 style="color:#003366">
+Thaybet Malavé
+</h5>
+<a href="mailto:thaybeth.malave@upr.edu" class="email">thaybeth.malave@upr.edu</a><br />
+</div>
+</div>
+<div class="w3-row" style="padding:20px;">
+<div class="w3-container w3-third">
+<img src="statics/images/jd.jpg" style="width:80%;">
+</div>
+<div class="w3-container w3-twothird">
+<h5 style="color:#003366">
+Yariel Figueroa
+</h5>
+<a href="mailto:yariel.figueroa@upr.edu" class="email">yariel.figueroa@upr.edu</a><br />
+</div>
+</div>
+<div class="w3-row" style="padding:20px;">
+<div class="w3-container w3-third">
+<img src="statics/images/jd.jpg" style="width:80%;">
+</div>
+<div class="w3-container w3-twothird">
+<h5 style="color:#003366">
+Christian Andino
+</h5>
+<a href="mailto:c.andino11@gmail.com" class="email">c.andino11@gmail.com</a><br />
+</div>
+</div>
+<div class="w3-row" style="padding:20px;">
+<div class="w3-container w3-third">
+<img src="statics/images/jd.jpg" style="width:80%;">
+</div>
+<div class="w3-container w3-twothird">
+<h5 style="color:#003366">
+Kevin Santiago
+</h5>
+<a href="mailto:kevin.santiago29@upr.edu" class="email">kevin.santiago29@upr.edu</a><br />
+</div>
+</div>
+<div class="w3-row" style="padding:20px;">
+<div class="w3-container w3-third">
+<img src="statics/images/jd.jpg" style="width:80%;">
+</div>
+<div class="w3-container w3-twothird">
+<h5 style="color:#003366">
+Marianny Alvarado
+</h5>
+<a href="mailto:marianny.alvarado@upr.edu" class="email">marianny.alvarado@upr.edu</a><br />
 </div>
 </div>
 
@@ -755,6 +707,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

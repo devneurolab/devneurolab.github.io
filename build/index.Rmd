@@ -3,11 +3,11 @@ title: "<h1 style=\"text-align:center;color:#003366\">Developmental Neurobiology
 ---
 
 <center>
-####Universidad de Puerto Rico - Rio Piedras
+<h3>Universidad de Puerto Rico - Rio Piedras</h3>
 
 
 
-![](statics/images/thelab.jpeg)
+![](statics/images/devneurolab2021-01.jpg)
 </center>
 
 <style>

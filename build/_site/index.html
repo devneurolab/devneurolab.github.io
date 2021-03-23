@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>index.utf8</title>
 
+<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -86,7 +87,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +235,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +247,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -354,9 +343,10 @@ Developmental Neurobiology Laboratory
 
 
 <center>
-<div id="universidad-de-puerto-rico---rio-piedras" class="section level4">
-<h4>Universidad de Puerto Rico - Rio Piedras</h4>
-<img src="statics/images/thelab.jpeg" />
+<h3>
+Universidad de Puerto Rico - Rio Piedras
+</h3>
+<img src="statics/images/devneurolab2021-01.jpg" />
 </center>
 <style>
 .column-left{
@@ -445,12 +435,11 @@ Research Programs
 <p>Biology Department <br /> Julio Garcia Diaz Building - JGD220 <br /> University of Puerto Rico <br /> San Juan, PR 00931</p>
 </div>
 <div class="column-center">
-<p>For inquiries or interest in our research please contact us through the following: <br /> Phone: 787-764-0000, Ext. 88152 <br /> Email: <a href="mailto:jegarcia@hpcf.upr.edu">jegarcia@hpcf.upr.edu</a></p>
+<p>For inquiries or interest in our research please contact us through the following: <br /> Phone: 787-764-0000, Ext. 88152 <br /> Email: <a href="mailto:jegarcia@hpcf.upr.edu" class="email">jegarcia@hpcf.upr.edu</a></p>
 </div>
 <div class="column-right">
 <iframe src="statics/location.html" frameborder="0" width="100%" height="100px">
 </iframe>
-</div>
 </div>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -484,6 +473,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

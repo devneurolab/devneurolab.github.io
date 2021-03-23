@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
 <title>RESEARCH PROGRAMS</title>
 
+<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -86,7 +87,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +235,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +247,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -372,10 +361,7 @@ a:hover {
 </h2>
 <p>Neuroscience Research Opportunity to Increase Diversity</p>
 </div>
-<div class="figure">
-<img src="statics/images/neuro-id-logo.png" />
-
-</div>
+<p><img src="statics/images/neuro-id-logo.png" /></p>
 <p style="padding:10px;">
 NEURO-ID is a program designed to increase diversity in Neuroscience by providing opportunities to undergraduate students interested in this area and enhance their scientific knowledge, research capability and social responsability.
 </p>
@@ -387,10 +373,7 @@ NEURO-ID is a program designed to increase diversity in Neuroscience by providin
 </h2>
 <p>Increasing Diversity in Interdisciplinary Big Data to Knowledge</p>
 </div>
-<div class="figure">
-<img src="statics/images/ibd2k.jpg" width="250" />
-
-</div>
+<p><img src="statics/images/ibd2k.jpg" width="250" /></p>
 <p style="padding:10px;">
 The IDI-BD2K project is a proposal by faculty from the College of Natural Sciences of the Rio Piedras Campus of the UPR and Harvard University to train groups of interdisciplinary students to generate biomedical knowledge through the analysis and interpretation of Big Data.
 </p>
@@ -402,10 +385,7 @@ The IDI-BD2K project is a proposal by faculty from the College of Natural Scienc
 </h2>
 <p>Research Initiative for Scientific Enhancement</p>
 </div>
-<div class="figure">
-<img src="statics/images/rise.png" width="400" />
-
-</div>
+<p><img src="statics/images/rise.png" width="400" /></p>
 <p style="padding:10px;">
 The RISE Program is a research training program designed to increase the preparation and skills of undergraduate and graduate students. It seeks to increase the number of students who become interested and fully participate in productive research experiences in biomedical sciences encouraging them to continue doctoral degrees and postdoctoral experiences.
 </p>
@@ -417,10 +397,7 @@ The RISE Program is a research training program designed to increase the prepara
 </h2>
 <p>Maximizing Access to Research Careers</p>
 </div>
-<div class="figure">
-<img src="statics/images/marc.png" width="400" />
-
-</div>
+<p><img src="statics/images/marc.png" width="400" /></p>
 <p style="padding:10px;">
 The MARC Program for undergraduate students is a research training program sponsored by the National Institute of General Medical Sciences (NIGMS); its main goal is to increase the amount of Puertorrican students and other minority groups that pursue graduate studies leading to a PhD in Biomedical Sciences.
 </p>
@@ -460,6 +437,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
