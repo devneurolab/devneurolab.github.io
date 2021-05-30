@@ -6,21 +6,21 @@ title: "PUBLICATIONS"
 
 <h3>2021</h3>
 
-Díaz-Díaz L, Rosario-Meléndez N, Rodríguez-Villafañe A, Figueroa-Vega YY, Pérez-Villafañe OA, Colón-Cruz AM, Rodríguez-Sánchez PI, Cuevas-Cruz JM, Malavez-Cajigas SJ, Maldonado-Chaar SM, García-Arrarás JE.  Antibiotics modulate intestinal regeneration.  In Press. Biology.
+Medina-Feliciano JG, Pirro S, García-Arrarás JE, Mashanov V, Ryan JF. Draft Genome of the Sea Cucumber Holothuria glaberrima, a model for the study of regeneration. Frontiers in Marine Science. 8:321, 2021. doi: https://doi.org/10.3389/fmars.2021.603410 [[Frontiers]](https://www.frontiersin.org/articles/10.3389/fmars.2021.603410/full) [[PDF]](https://www.frontiersin.org/articles/10.3389/fmars.2021.603410/pdf)
 
-Medina-Feliciano J, Pirro S, Garcia-Arraras JE, Mashanov V, Ryan JF. Draft genome of the sea cucumber Holothuria glaberrima.  In press: Frontiers in Marine Science.
+Quispe-Parra D, Valentin G, García-Arrarás JE.  A roadmap for intestinal regeneration. Int J Dev Biol. 65:427-437, 2021.  doi: 10.1387/ijdb.200227dq [[Int. J. Dev. Biol]](http://www.ijdb.ehu.es/web/paper/200227dq)
+
+García-Arrarás JE.  Developmental Biology in Central America, the northern region of South America and the Caribbean.  Int J Dev Biol.  65: 49-58, 2021. doi: 10.1387/ijdb.200232jg [[Int. J. Dev. Biol]](http://www.ijdb.ehu.es/web/paper.php?doi=200232jg)
+
+García-Arrarás JE.  An interview with Dr Alejandro Sánchez Alvarado.  Int J Dev Biol.  65:137-141, 2021.doi: 10.1387/ijdb.200043jg [[Int. J. Dev. Biol]](http://www.ijdb.ehu.es/web/paper/200043jg/an-interview-with-dr-alejandro-snchez-alvarado)
+
+Díaz-Díaz L, NRosario-Meléndez N, Rodríguez-Villafañe A, Figueroa-Vega YY, Pérez-Villafañe OA, Colón-Cruz AM, Rodríguez-Sánchez PI, Cuevas-Cruz JM, Malavez-Cajigas SJ, Maldonado-Chaar SM, García-Arrarás JE.  Antibiotics modulate intestinal regeneration. Biology 10(3), 236, 2021. doi: https://doi.org/10.3390/biology10030236 [[MDPI]](https://www.mdpi.com/2079-7737/10/3/236/htm) [[PDF]](https://www.mdpi.com/2079-7737/10/3/236/pdf)
 
 Quispe-Parra DJ, Medina-Feliciano J, Cruz-González S, Ortiz-Zuazaga H, García-Arrarás JE. Transcriptomic analysis of early stages of intestinal regeneration in Holothuria glaberrima. Sci Rep 11:346, 2021. [[Sci Rep]](https://www.nature.com/articles/s41598-020-79436-2) [[PDF]](https://www.nature.com/articles/s41598-020-79436-2.pdf)
 
 Alicea-Delgado, Miosotis, Samir A. Bello-Melo, and José E. García-Arrarás. RNA Interference on Regenerating Holothurian Gut Tissues. Developmental Biology of the Sea Urchin and Other Marine Invertebrates, pp. 241-252. Humana, New York, NY, 2021. [[Springer]](https://link.springer.com/protocol/10.1007/978-1-0716-0974-3_15)
 
 <h3>2020</h3>
-
-García-Arrarás JE.  An interview with Dr Alejandro Sánchez Alvarado.  Int J Dev Biol.  In Press. doi: 10.1387/ijdb.200043jg. Online ahead of print. [[Int. J. Dev. Biol]](http://www.ijdb.ehu.es/web/paper/200043jg/an-interview-with-dr-alejandro-snchez-alvarado)
-
-García-Arrarás JE.  Developmental Biology in Central America, the northern region of South America and the Caribbean.  Int J Dev Biol. In Press. doi: 10.1387/ijdb.200232jg. Online ahead of print. [[Int. J. Dev. Biol]](http://www.ijdb.ehu.es/web/paper/200232jg/developmental-biology-in-central-america-the-northern-region-of-south-america-and-the-caribbean)
-
-Quispe-Parra, David, Griselle Valentín, and José E. García-Arrarás. A roadmap for intestinal regeneration. International Journal of Developmental Biology. In Press. doi: 10.1387/ijdb.200227dq. Online ahead of print. [[Int. J. Dev. Biol]](http://www.ijdb.ehu.es/web/paper/200227dq)
 
 Ordóñez-Franco P, Ramírez JS, Ortiz-Zuázaga H, Pérez-Hernández ME, Pericchi L, García-Arrarás JE. “Enhancing Undergraduate Education and Curriculum through an Interdisciplinary and Quantitative Initiative to Broaden Participation in Big Data,” In Proceedings of the 18th LACCEI International Multi-Conference for Engineering, Education, and Technology: “Engineering, Integration, And Alliances for A Sustainable Development” “Hemispheric Cooperation for Competitiveness and Prosperity on A Knowledge-Based Economy,” Buenos Aires, Argentina, July 29-31, 2020. [[PDF]](http://www.laccei.org/LACCEI2020-VirtualEdition/full_papers/FP581.pdf)
 
