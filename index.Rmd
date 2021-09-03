@@ -61,10 +61,6 @@ title: "<h1 style=\"text-align:center;color:#003366\">Developmental Neurobiology
 }
 </style>
 
-<div class = "update">
-UPDATES COMMING SOON!
-</div>
-
 <div class="row">
   <div class="column-about-text">
   <h2>About Us</h2>

@@ -1,0 +1,15 @@
+---
+title: "Molecular Aspects of Intestinal Regeneration"
+---
+
+***
+<center>
+
+![](statics/images/img2.png){width=450px}
+
+*** 
+
+In order to understand the molecular basis of regenerative processes we have used various techniques to determine the pattern of gene expression in regenerating versus non-regenerating organs. Thus, we have determined temporal gene expression profiles for intestinal and nervous system, regeneration. Moreover, we have focus on certain genes and gene pathways to study their specific role in regenerative processes. Some of these genes are already known to be associated with embryological development, such as Wnt and Hox genes while others appear to be novel genes. These studies complement the cellular studies to determine the cell types that are expressing specific genes during regeneration.
+
+
+</center>
