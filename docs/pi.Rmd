@@ -1,0 +1,94 @@
+---
+title: "Jose E. García Arrarás, PhD"
+---
+
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<style>
+.column-left-info{
+  padding: 10px;
+  text-align: left;
+}
+.column-right-info{
+  padding:10px
+  text-align: center;
+}
+.contact{
+  padding-bottom: 10px;
+}
+a:link {
+  color: blue; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+a:hover {
+  color: orange;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
+Principal Investigator
+
+***
+<body>
+
+<div>
+  <img src="statics/images/el_doc.jpg" style="width:450px;padding=20px;float:right;">
+</div>
+
+<div style="padding-left: 20px;padding-top:10px;font-size:12px;">
+
+<h3>Education</h3>
+* June 1985 - December 1985
+    + Visiting Research Fellow
+    + Department of Pharmacology, Tokyo Medical and Dental University
+    + 5-45 Yushima I-Chome, Bunkyo-Ku, Tokyo 113, Japan
+  
+* November 1984 - May 1985
+    + Visiting Research Fellow
+    + Department of Physiology, Flinders Medical School
+    + Bedford Park, 5042 South Australia, Australia
+
+* 1981 - 1984
+    + Postdoctoral Researcher
+    + Institut d'Embryologie, CNRS et College de France
+    + Nogent-sur-Marne, France
+
+* 1976 - 1981
+    + Graduate Degree (PhD)
+    + Department of Physiology and Biophysics
+    + Harvard University, Massachusetts, United States of America
+
+* 1972 - 1976
+    + Bachelor's Degree (B.Sc.)
+    + University of Puerto Rico, Mayagüez Campus
+    + Mayagüez, Puerto Rico
+
+</div>
+
+<div class="contact">
+
+***
+
+<h3>Contact Information</h3>
+
+<div class="w3-row">
+  <div class="w3-half w3-container column-left-info">
+<p style="font-size:14px;">Biology Department <br />
+Julio Garcia Diaz Building - JGD220 <br />
+University of Puerto Rico <br />
+San Juan, PR 00931</p>
+  </div>
+  <div class="w3-half w3-container column-right-info">
+<p style="font-size:14px;">For inquiries or interest in our research please <br/> contact us through the following: <br />
+Phone: 787-764-0000, Ext. 88152 <br />
+Email: <a href="mailto:jegarcia@hpcf.upr.edu">jegarcia@hpcf.upr.edu</a></p>
+  </div>
+</div>
+***
+</div>
+
+<body>
