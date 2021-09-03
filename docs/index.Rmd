@@ -1,8 +1,10 @@
 ---
-title: "<h1 style=\"text-align:center;color:#003366\">Developmental Neurobiology Laboratory</h1>"
+title: "DEVNEURO LAB"
 ---
 
+
 <center>
+<h1>DEVELOPMENTAL NEUROBIOLOGY LABORATORY</h1>
 <h3>Universidad de Puerto Rico - Rio Piedras</h3>
 
 
@@ -11,6 +13,9 @@ title: "<h1 style=\"text-align:center;color:#003366\">Developmental Neurobiology
 </center>
 
 <style>
+.title {
+  display:none;
+}
 .column-left{
   float: left;
   width: 33%;
