@@ -1,4 +1,0 @@
----
----
-
-<p style=\"text-align:left;\">Copyright &copy; 2019 Dev Neuro Lab. All rights reserved.</p> <a href="#" class="fa fa-facebook"></a>
