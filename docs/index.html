@@ -267,7 +267,7 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="about.html">Current</a>
+      <a href="members.html">Current</a>
     </li>
     <li>
       <a href="alumni.html">Alumni</a>
@@ -276,11 +276,14 @@ $(document).ready(function () {
 </li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    More
+    Data &amp; More
      
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="https://blastkit.hpcf.upr.edu/hglaberrima-v1/">Sequencing Data</a>
+    </li>
     <li>
       <a href="outreach.html">Community Outreach</a>
     </li>
@@ -309,15 +312,6 @@ $(document).ready(function () {
 </div>
 
 
-<center>
-<h1>
-DEVELOPMENTAL NEUROBIOLOGY LABORATORY
-</h1>
-<h3>
-Universidad de Puerto Rico - Rio Piedras
-</h3>
-<img src="statics/images/devneurolab2021-01.jpg" />
-</center>
 <style>
 .title {
   display:none;
@@ -339,15 +333,24 @@ Universidad de Puerto Rico - Rio Piedras
 }
 .column-programs {
   float: left;
-  width: 25%;
+  width: 100%;
   text-align:center;
   font-weight: bold;
   font-size: 20px;
+  padding: 5px;
 }
 .row:after {
   content: "";
   display: table;
   clear: both;
+}
+.info-div {
+  float: left;
+  width: 50%;
+  text-align:center;
+  font-weight: bold;
+  font-size: 20px;
+  border-right: 1px solid #D3D3D3;
 }
 .column-about-text {
   float: left;
@@ -369,41 +372,75 @@ Universidad de Puerto Rico - Rio Piedras
   .column-about-img{
     width: 100%;
   }
+  .info-div {
+  float: left;
+  width: 100%;
+  text-align:center;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 5px;
+  border-right: none;
+}
 }
 </style>
+<html>
+<center>
+<h1>
+DEVELOPMENTAL NEUROBIOLOGY LABORATORY
+</h1>
+<h3>
+Universidad de Puerto Rico - Rio Piedras
+</h3>
+<img src="statics/images/devneurolab2021-01.jpg" />
+</center>
+<hr />
 <div class="row">
 <div class="column-about-text">
 <h2>
-About Us
+ABOUT US
 </h2>
 <p>
-Our laboratory uses the sea cucumber Holothuria glaberrima, as a model system to study different aspects of organogenesis and regeneration as well as comparative neuronal anatomy and evolution. Sea cucumber, which comprises the group holothurians, are coelomate organisms of the phylum echinodermata. They are closely related to chordates by, in contrast to chordates, echibit an impressive ability to regenerate complex structures. In holothurians the regenerative process is evidenced following evisceration in which all major viscera are discarded. In H. glaberrima, regeneration of the intestine in completed in a 4-week period. Our overall goal is to use this model system to understand the process of organogenesis and how the multiplicity of cell types are generated and assembled into a functional organ.
+Our laboratory uses the sea cucumber <i>Holothuria glaberrima</i>, as a model system to study different aspects of organogenesis and regeneration as well as comparative neuronal anatomy and evolution. Sea cucumber, which comprises the group holothurians, are coelomate organisms of the phylum echinodermata. They are closely related to chordates by, in contrast to chordates, echibit an impressive ability to regenerate complex structures. In holothurians the regenerative process is evidenced following evisceration in which all major viscera are discarded. In <i>H. glaberrima</i>, regeneration of the intestine in completed in a 4-week period. Our overall goal is to use this model system to understand the process of organogenesis and how the multiplicity of cell types are generated and assembled into a functional organ.
 </p>
 </div>
 <div class="column-about-img">
 <img src="statics/images/cucumber.JPG" style="width:340px;padding:20px;align:center;">
 </div>
 </div>
+<hr />
+<div class="row" style="padding-bottom:5px;">
+<div class="info-div">
+<h2 style="color:red;font-weight:bold;">
+ACCESS OUR LATEST DATA!
+</h2>
+<div>
+<a href="https://blastkit.hpcf.upr.edu/hglaberrima-v1/">
+<h3>
+Sequencing Data Main Page
+</h3>
+</a> <a href="https://blastkit.hpcf.upr.edu/hglaberrima-v1/sequencing-data.html">
+<h3>
+Data Download
+</h3>
+</a>
+</div>
+</div>
+<div class="info-div" style="border-right: none;">
 <center>
 <h2 style="padding:4px;">
-Research Programs
+RESEARCH PROGRAMS
 </h2>
 </center>
-<div class="row" style="padding-bottom:5px;">
 <div class="column-programs">
-<a href="programs.html#marc">MARC</a>
+<a style="margin: 1px;padding: 10px 20px;border" href="programs.html#neuro">NEURO ID</a> <a style="margin: 1px;padding: 10px 20px;" href="programs.html#marc">MARC</a>
 </div>
 <div class="column-programs">
-<a href="programs.html#neuro">NEURO ID</a>
+<a style="margin: 1px;padding: 10px 20px;" href="programs.html#idb2k">IBD2K</a> <a style="margin: 1px;padding: 10px 20px;" href="programs.html#rise">RISE</a>
 </div>
-<div class="column-programs">
-<a href="programs.html#idb2k">IBD2K</a>
-</div>
-<div class="column-programs">
-<a href="programs.html#rise">RISE</a>
 </div>
 </div>
 <hr />
+<div>
 <div class="column-left">
 <p>Biology Department <br /> Julio Garcia Diaz Building - JGD220 <br /> University of Puerto Rico <br /> San Juan, PR 00931</p>
 </div>
@@ -414,6 +451,8 @@ Research Programs
 <iframe src="statics/location.html" frameborder="0" width="100%" height="100px">
 </iframe>
 </div>
+</div>
+</html>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 

@@ -2,7 +2,6 @@
 title: "CURRENT MEMBERS"
 ---
 
-<html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -15,12 +14,12 @@ Lab Technicians
 
 <div class="w3-row" style="padding:20px;">
   <div class="w3-container w3-third">
-  <img src="statics/images/mio.jpg" style="width:80%;">
+  <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Miosotis Alicea Delgado</h5>
-  <p style = "font-size: 13px;">Research Assistant II</p>
-  <p style = "font-size: 12px;">aliceadelgadom@gmail.com</p>
+  <h5 style="color:#003366">Yakshi Ortiz Maldonado</h5>
+  <p style = "font-size: 13px;">Research Assistant</p>
+  <p style = "font-size: 12px;"></p>
   </div>
 </div>
 
@@ -30,6 +29,7 @@ Lab Technicians
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Griselle Valentin</h5>
+  <p style = "font-size: 13px;">Research Assistant</p>
   <p style = "font-size: 12px;">grvalentin@hotmail.com</p>
   </div>
 </div>
@@ -45,8 +45,8 @@ Grad Students
   <img src="statics/images/lyma.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Lymarie Diaz-Diaz </h5>
-  <p style = "font-size: 13px;"> PhD Student | RISE Grad Student </p>
+  <h5 style="color:#003366">Lymarie Díaz-Díaz </h5>
+  <p style = "font-size: 13px;"> PhD Candidate </p>
   <p style = "font-size: 12px;">lymarie.diaz@upr.edu </p>
   <p style="font-size:12px;">I am currently characterizing the role of microbiota during regeneration processes on sea cucumber Holothuria glaberrima. The intestine is associated with a high density of microorganisms that regulate multiple processes, from metabolism to development and homeostasis of the whole body. With an organism that has an amazing potential to regenerate the whole digestive tract, we can study this processes in more depth. With this project, I aim to decipher the microbial association that are pivotal to regeneration, and what processes are influenced by those microorganisms. </p>
   </div>
@@ -58,7 +58,7 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Joshua G. Medina-Feliciano</h5>
-  <p style = "font-size: 13px;">PhD Student | NSF Bridge to the Doctorate Program Fellow</p>
+  <p style = "font-size: 13px;">PhD Student | NIH RISE Fellow</p>
   <p style = "font-size: 12px;">joshua.medina8@upr.edu</p>
   <p style="font-size:12px;">Currently, my projects are focused towards the understanding of regeneration of the sea cucumber from a genomic aspect. Particularly, I am working towards generation of new genomic data that can provide an insight into the molecular aspects of regeneration.</p>
   </div>
@@ -70,19 +70,8 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Yamil Miranda</h5>
-  PhD Student | NSF Bridge to the Doctorate Program Fellow<br />
-  yamil.miranda1@upr.edu<br />
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/david.JPG" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">David Quispe-Parra</h5>
-  M.S. Student<br />
-  davidjquispe@gmail.com<br />
+  <p style = "font-size: 13px;">PhD Student | NSF Bridge to the Doctorate Program Fellow</p>
+  <p style = "font-size: 12px;">yamil.miranda1@upr.edu</p>
   </div>
 </div>
 
@@ -91,31 +80,42 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Adbiel Rodriguez</h5>
-  M.S. Student<br />
-  adbiel.rodriguez@upr.edu<br />
+  <h5 style="color:#003366">Julienn Torres</h5>
+  <p style = "font-size: 13px;">PhD Student</p>
+  <p style = "font-size: 12px;">julienntorres15@gmail.com</p>
   </div>
 </div>
 
 <div class="w3-row" style="padding:20px;">
   <div class="w3-container w3-third">
   <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Adbiel Rodríguez</h5>
+  <p style = "font-size: 13px;">M.S. Student</p>
+  <p style = "font-size: 12px;">adbiel.rodriguez@upr.edu</p>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/eliel.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Eliel Rivera</h5>
-  M.S. Student<br />
-  eliel.rivera@upr.edu<br />
+  <p style = "font-size: 13px;">M.S. Student</p>
+  <p style = "font-size: 12px;">eliel.rivera@upr.edu</p>
   </div>
 </div>
 
 <div class="w3-row" style="padding:20px;">
   <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
+  <img src="statics/images/saely.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Saely Rosado</h5>
-  M.S. Student<br />
-  saely.rosado@upr.edu<br />
+  <p style = "font-size: 13px;">M.S. Student</p>
+  <p style = "font-size: 12px;">saely.rosado@upr.edu</p>
   </div>
 </div>
 
@@ -125,8 +125,19 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Fernando Ruiz</h5>
-  M.S. Student<br />
-  fernando.ruiz3@upr.edu<br />
+  <p style = "font-size: 13px;">M.S. Student</p>
+  <p style = "font-size: 12px;">fernando.ruiz3@upr.edu</p>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Noah Auger</h5>
+  <p style = "font-size: 13px;">M.S. Student</p>
+  <p style = "font-size: 12px;">augernoah22@gmail.com</p>
   </div>
 </div>
 
@@ -139,48 +150,8 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Adrian Medina</h5>
-  adrian.medina2@upr.edu<br />
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Amanda Morales</h5>
-  amanda.morales4@upr.edu<br />
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Andrea Rodriguez</h5>
-  raul.garcia1@upr.edu<br />
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Diego Calo</h5>
-  diego.calo@upr.edu<br />
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Eduardo Quesada</h5>
-  eduardo.quesada@upr.edu<br />
+  <p style = "font-size: 12px;">amanda.morales4@upr.edu</p>
   </div>
 </div>
 
@@ -190,7 +161,7 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Emil Gonzalez</h5>
-  emil.gonzalez@upr.edu<br />
+  <p style = "font-size: 12px;">emil.gonzalez@upr.edu</p>
   </div>
 </div>
 
@@ -199,8 +170,8 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Karina Peña</h5>
-  karina.pena@upr.edu<br />
+  <h5 style="color:#003366">Kamyla Reyes</h5>
+  <p style = "font-size: 12px;">kamyla.reyes@upr.edu</p>
   </div>
 </div>
 
@@ -210,7 +181,7 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Kianna Franco</h5>
-  kianna.franco@upr.edu<br />
+  <p style = "font-size: 12px;">kianna.franco@upr.edu</p>
   </div>
 </div>
 
@@ -219,8 +190,8 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Naomi Cruz</h5>
-  naomi.cruz1@upr.edu<br />
+  <h5 style="color:#003366">Miozzottys Perez</h5>
+  <p style = "font-size: 12px;">miozzottys.perez@upr.edu</p>
   </div>
 </div>
 
@@ -230,17 +201,7 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Omar Morales</h5>
-  omar.morales10@upr.edu<br />
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Omar Perez</h5>
-  omar.perez17@upr.edu<br />
+  <p style = "font-size: 12px;">omar.morales10@upr.edu</p>
   </div>
 </div>
 
@@ -250,7 +211,7 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Silvia Blanco</h5>
-  silvia.blanco@upr.edu<br />
+  <p style = "font-size: 12px;">silvia.blanco@upr.edu</p>
   </div>
 </div>
 
@@ -259,48 +220,9 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Thaybet Malavé</h5>
-  thaybeth.malave@upr.edu<br />
+  <h5 style="color:#003366">Coraly Cintrón</h5>
+  <p style = "font-size: 12px;">ccintron75@sagrado.edu</p>
   </div>
 </div>
 
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Yariel Figueroa</h5>
-  yariel.figueroa@upr.edu<br />
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Christian Andino</h5>
-  c.andino11@gmail.com<br />
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Kevin Santiago</h5>
-  kevin.santiago29@upr.edu<br />
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Marianny Alvarado</h5>
-  marianny.alvarado@upr.edu<br />
-  </div>
-</div>
+***

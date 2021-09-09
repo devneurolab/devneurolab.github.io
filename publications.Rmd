@@ -4,7 +4,48 @@ title: "PUBLICATIONS"
 
 ***
 
-<h3>2021</h3>
+<style>
+.pagination {
+  display: inline-block;
+  border: 1px solid #D3D3D3;
+  border-radius: 5px;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.pagination a.active {
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 5px;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+  border-radius: 5px;
+}
+</style>
+
+<center>
+<div class="pagination">
+  <a href="#2021">2021</a>
+  <a href="#2020">2020</a>
+  <a href="#2019">2019</a>
+  <a href="#2018">2018</a>
+  <a href="#2017">2017</a>
+  <a href="#2016">2016</a>
+  <a href="#2015">2015</a>
+  <a href="#more">2014 & More</a>
+</div>
+</center>
+
+<h3 id = "2021">2021</h3>
+
+Alicea-Delgado M, García-Arrarás JE. Wnt/β-catenin signaling pathway regulates cell proliferation but not muscle dedifferentiation nor apoptosis during sea cucumber intestinal regeneration. Developmental Biology. 2021. doi:https://doi.org/10.1016/j.ydbio.2021.08.011 [[ScienceDirect]](https://doi.org/10.1016/j.ydbio.2021.08.011)
 
 Medina-Feliciano JG, Pirro S, García-Arrarás JE, Mashanov V, Ryan JF. Draft Genome of the Sea Cucumber Holothuria glaberrima, a model for the study of regeneration. Frontiers in Marine Science. 8:321, 2021. doi: https://doi.org/10.3389/fmars.2021.603410 [[Frontiers]](https://www.frontiersin.org/articles/10.3389/fmars.2021.603410/full) [[PDF]](https://www.frontiersin.org/articles/10.3389/fmars.2021.603410/pdf)
 
@@ -14,13 +55,13 @@ García-Arrarás JE.  Developmental Biology in Central America, the northern reg
 
 García-Arrarás JE.  An interview with Dr Alejandro Sánchez Alvarado.  Int J Dev Biol.  65:137-141, 2021.doi: 10.1387/ijdb.200043jg [[Int. J. Dev. Biol]](http://www.ijdb.ehu.es/web/paper/200043jg/an-interview-with-dr-alejandro-snchez-alvarado)
 
-Díaz-Díaz L, NRosario-Meléndez N, Rodríguez-Villafañe A, Figueroa-Vega YY, Pérez-Villafañe OA, Colón-Cruz AM, Rodríguez-Sánchez PI, Cuevas-Cruz JM, Malavez-Cajigas SJ, Maldonado-Chaar SM, García-Arrarás JE.  Antibiotics modulate intestinal regeneration. Biology 10(3), 236, 2021. doi: https://doi.org/10.3390/biology10030236 [[MDPI]](https://www.mdpi.com/2079-7737/10/3/236/htm) [[PDF]](https://www.mdpi.com/2079-7737/10/3/236/pdf)
+Díaz-Díaz L, Rosario-Meléndez N, Rodríguez-Villafañe A, Figueroa-Vega YY, Pérez-Villafañe OA, Colón-Cruz AM, Rodríguez-Sánchez PI, Cuevas-Cruz JM, Malavez-Cajigas SJ, Maldonado-Chaar SM, García-Arrarás JE.  Antibiotics modulate intestinal regeneration. Biology 10(3), 236, 2021. doi: https://doi.org/10.3390/biology10030236 [[MDPI]](https://www.mdpi.com/2079-7737/10/3/236/htm) [[PDF]](https://www.mdpi.com/2079-7737/10/3/236/pdf)
 
 Quispe-Parra DJ, Medina-Feliciano J, Cruz-González S, Ortiz-Zuazaga H, García-Arrarás JE. Transcriptomic analysis of early stages of intestinal regeneration in Holothuria glaberrima. Sci Rep 11:346, 2021. [[Sci Rep]](https://www.nature.com/articles/s41598-020-79436-2) [[PDF]](https://www.nature.com/articles/s41598-020-79436-2.pdf)
 
 Alicea-Delgado, Miosotis, Samir A. Bello-Melo, and José E. García-Arrarás. RNA Interference on Regenerating Holothurian Gut Tissues. Developmental Biology of the Sea Urchin and Other Marine Invertebrates, pp. 241-252. Humana, New York, NY, 2021. [[Springer]](https://link.springer.com/protocol/10.1007/978-1-0716-0974-3_15)
 
-<h3>2020</h3>
+<h3 id = "2020">2020</h3>
 
 Ordóñez-Franco P, Ramírez JS, Ortiz-Zuázaga H, Pérez-Hernández ME, Pericchi L, García-Arrarás JE. “Enhancing Undergraduate Education and Curriculum through an Interdisciplinary and Quantitative Initiative to Broaden Participation in Big Data,” In Proceedings of the 18th LACCEI International Multi-Conference for Engineering, Education, and Technology: “Engineering, Integration, And Alliances for A Sustainable Development” “Hemispheric Cooperation for Competitiveness and Prosperity on A Knowledge-Based Economy,” Buenos Aires, Argentina, July 29-31, 2020. [[PDF]](http://www.laccei.org/LACCEI2020-VirtualEdition/full_papers/FP581.pdf)
 
@@ -28,7 +69,7 @@ Nieves-Rios C, Alvarez-Falcon S, Malavez S, Rodriguez-Otero J, García-Arrarás 
 
 Bello SM, Torres-Rodriguez V, Rodríguez-Flores EJ, Toledo-Román E, Rodríguez N, Díaz-Díaz L, Vázquez-Figueroa LD, Cuesta JM, Grillo-Alvarado V, Amador A, Reyes J, García-Arrarás JE. Insights into intestinal regeneration mechanisms. Dev Biol, 458: 12-31, 2020. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/31605680)
 
-<h3>2019</h3>
+<h3 id = "2019">2019</h3>
 
 Viera-Vera, Jorge, García-Arrarás JE.  Retinoic acid signaling is associated with cell proliferation, muscle cell dedifferentiation, and overall rudiment size during intestinal regeneration in the sea cucumber, Holothuria glaberrima.  Biomolecules 9(12), 2019. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/31847189) [[PDF]](https://www.mdpi.com/2218-273X/9/12/873/htm)
 
@@ -36,7 +77,7 @@ García-Arrarás JE, Lefebre-Rivera M, Qi-Huang S. Enteroendocrine cell in the E
 
 Pagán-Jiménez M, Ruiz-Calderón JF, Dominguez-Bello MG, García-Arrarás JE. (2019) Characterization of the intestinal microbiota of the sea cucumber Holothuria glaberrima. PLoS ONE 14 (1): e020811 [[NCBI]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6353073/) [[PDF]](https://pdfs.semanticscholar.org/5028/dd4cffca5691a3f265771067e1c4d9e9c63a.pdf)
 
-<h3>2018</h3>
+<h3 id = "2018">2018</h3>
 
 Viera-Vera J, García-Arrarás JE. Molecular characterization and gene expression patterns of retinoid receptors, in normal and regenerating tissues of the sea cucumber, Holothuria glaberrima. Gene 654 (2018) 23-35.[[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/29425825) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863048/pdf/nihms944441.pdf)
 
@@ -48,7 +89,7 @@ Smith LC, V Arriza, MA Barela Hudgell, G Barone, AG Bodnar, KM Buckley, V Cunsol
 
 Garcia-Arraras JE, Diaz-Balzac C, Lazaro-Peña M. Holothurians as a model system to study regeneration. In: Marine Organisms as Model Systems in Biology and Medicine. M. Kloc and JZ Kubiak (eds). Results and Problems in Cell Differentiation Vol 65. Springer Publisher, 2018. [[Springer]](https://www.springer.com/gp/book/9783319924854)
 
-<h3>2017</h3>
+<h3 id = "2017">2017</h3>
 
 Hernandez-Pasos J, Valentin-Tirado G, García-Arrarás JE. Melanotransferrin: New homolog genes and their differential expression during intestinal regeneration in the sea cucumber Holothuria glaberrima. J Exp Zool 328:259-274, 2017. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/28229527) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5432042/pdf/nihms856684.pdf)
 
@@ -60,7 +101,7 @@ Mashanov VS, Zueva OR, Mashanova D, García-Arrarás JE. Expression of stem cell
 
 Garcia-Arraras, JE Dedifferentiation as a cell source for organ regeneration (Chapter 19). In: Regenerative Engineering and Developmental Biology: Principles and Applications. D. Gardiner (ed) CRC Press 2017. [[Amazon]](https://www.amazon.com/Regenerative-Engineering-Developmental-Biology-Applications/dp/1498723314)
 
-<h3>2016</h3>
+<h3 id = "2016">2016</h3>
 
 Mashanov, Vladimir, Olga Zueva, and Jose Garcia-Arraras. "Inhibition of Cell Proliferation Does Not Slow down Echinoderm Neural Regeneration." 2016. doi:10.1101/066860. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/066860v1) [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2016/07/31/066860.full-text.pdf)
 
@@ -68,7 +109,7 @@ Díaz-Balzac, Carlos A., María I. Lázaro-Peña, Lionel D. Vázquez-Figueroa, R
 
 Vazquez-Velez, G. E., J. F. Rodriguez-Molina, M. C. Quinones-Frias, M. Pagan, and J. E. Garcia-Arraras. "A Proteoglycan-Like Molecule Offers Insights Into Ground Substance Changes During Holothurian Intestinal Regeneration."Journal of Histochemistry & Cytochemistry64, no. 6 (2016): 381-93. doi:10.1369/0022155416645781. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/27126824) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4888413/pdf/10.1369_0022155416645781.pdf)
 
-<h3>2015</h3>
+<h3 id = "2015">2015</h3>
 
 Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Heterogeneous Generation of New Cells in the Adult Echinoderm Nervous System."Frontiers in Neuroanatomy9 (2015). doi:10.3389/fnana.2015.00123. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/26441553) [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585025/pdf/fnana-09-00123.pdf)
 
@@ -76,7 +117,7 @@ Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Expression
 
 Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Myc Regulates Programmed Cell Death and Radial Glia Dedifferentiation after Neural Injury in an Echinoderm."BMC Developmental Biology15, no. 1 (2015). doi:10.1186/s12861-015-0071-z. [[BMC]](https://bmcdevbiol.biomedcentral.com/articles/10.1186/s12861-015-0071-z) [[PDF]](https://bmcdevbiol.biomedcentral.com/track/pdf/10.1186/s12861-015-0071-z)
 
-<h3>2014</h3>
+<h3 id = "more">2014</h3>
 
 Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Transcriptomic Changes during Regeneration of the Central Nervous System in an Echinoderm."BMC Genomics15, no. 1 (2014): 357. doi:10.1186/1471-2164-15-357. [[BMC]](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-357) [[PDF]](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/1471-2164-15-357)
 
@@ -88,13 +129,13 @@ Bello, Samir A., Ricardo J. Abreu-Irizarry, and José E. García-Arrarás. "Prim
 
 Soto-Acaba, Arisnel, Pablo Ortiz-Pineda, Josue Hernandez-Pasos, and Jose Garcia-Arraras. "Orpin and its isoform are novel putative calcium binding proteins associated to intestinal and nerve regeneration in the sea cucumber Holothuria glaberrima (651.22)."The FASEB Journal28, no. 1 Supplement (2014): 651-22. [[FASEB]](https://www.fasebj.org/doi/abs/10.1096/fasebj.28.1_supplement.651.22)
 
-<h3>2013</h3>
+<h3 id = "2013">2013</h3>
 
 Huang, Sunny Qi, and José E. García-Arrarás. "Characterization of the intestinal tract neuroendocrine cells in normal and regenerating Holothuria glaberrima."The FASEB Journal27, no. 1 Supplement (2013): 797-1.
 
 Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Radial Glial Cells Play a Key Role in Echinoderm Neural Regeneration."BMC Biology11, no. 1 (2013): 49. doi:10.1186/1741-7007-11-49. [[BMC]](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-11-49) [[PDF]](https://bmcbiol.biomedcentral.com/track/pdf/10.1186/1741-7007-11-49)
 
-<h3>2012</h3>
+<h3 id = "2012">2012</h3>
 
 Mashanov, Vladimir S., Olga R. Zueva, and Jose E. Garcia-Arraras. "Expression of Wnt9, TCTP, and Bmp1/Tll in Sea Cucumber Visceral Regeneration."Gene Expression Patterns12, no. 1-2 (2012): 24-35. doi:10.1016/j.gep.2011.10.003. [PDF]
 
@@ -110,13 +151,13 @@ Orlando, Giuseppe, Jose E. García-Arrarás, Tom Soker, Christopher Booth, Brian
 
 Mashanov, Vladimir S., Olga R. Zueva, and José E. García-Arrarás. "Posttraumatic Regeneration Involves Differential Expression of Long Terminal Repeat (LTR) Retrotransposons."Developmental Dynamics241, no. 10 (2012): 1625-636. doi:10.1002/dvdy.23844. [PDF]
 
-<h3>2011</h3>
+<h3 id = "2011">2011</h3>
 
 Mashanov, V. S., and J. E. García-Arrarás. "Gut Regeneration in Holothurians: A Snapshot of Recent Developments."The Biological Bulletin221, no. 1 (2011): 93-109. doi:10.1086/bblv221n1p93. [PDF]
 
 García-Arrarás, José E., Griselle Valentín-Tirado, Jaime E. Flores, Rey J. Rosa, Angélica Rivera-Cruz, José E San Miguel-Ruiz, and Karen Tossas. "Cell Dedifferentiation and Epithelial to Mesenchymal Transitions during Intestinal Regeneration in H. Glaberrima."BMC Developmental Biology11, no. 1 (2011): 61. doi:10.1186/1471-213x-11-61. [PDF]
 
-<h3>2010</h3>
+<h3 id = "2010">2010</h3>
 
 Díaz-Balzac, Carlos A., Wigberto Mejías, Luis B. Jiménez, and José E. García-Arrarás. "The Catecholaminergic Nerve Plexus of Holothuroidea."Zoomorphology129, no. 2 (2010): 99-109. doi:10.1007/s00435-010-0103-y. [PDF]
 
@@ -132,7 +173,7 @@ Mashanov, Vladimir S., Olga R. Zueva, Carmencita Rojas-Catagena, and Jose E. Gar
 
 Ramírez-Gómez, F., and J. E. García-Arrarás. "Echinoderm immunity."Invert Survival J7 (2010): 211-220. [PDF]
 
-<h3>2009</h3>
+<h3 id = "2009">2009</h3>
 
 Miguel-Ruiz, José E San, Angel R. Maldonado-Soto, and José E. García-Arrarás. "Regeneration of the Radial Nerve Cord in the Sea Cucumber Holothuria Glaberrima."BMC Developmental Biology9, no. 1 (2009): 3. doi:10.1186/1471-213x-9-3. [PDF]
 
@@ -142,7 +183,7 @@ Ortiz-Pineda, Pablo A., Francisco Ramírez-Gómez, Judit Pérez-Ortiz, Sebastiá
 
 Ramírez-Gómez, Francisco, Pablo A. Ortiz-Pineda, Gabriela Rivera-Cardona, and José E. García-Arrarás. "LPS-Induced Genes in Intestinal Tissue of the Sea Cucumber Holothuria Glaberrima."PLoS ONE4, no. 7 (2009). doi:10.1371/journal.pone.0006178. [PDF]
 
-<h3>2008</h3>
+<h3 id = "2008">2008</h3>
 
 Ramírez-Gómez, Francisco, Pablo A. Ortíz-Pineda, Carmencita Rojas-Cartagena, Edna C. Suárez-Castillo, and José E. García-Arrarás. "Immune-related Genes Associated with Intestinal Tissue in the Sea Cucumber Holothuria Glaberrima."Immunogenetics60, no. 7 (2008): 409. doi:10.1007/s00251-008-0280-8. [PDF]
 
@@ -156,13 +197,13 @@ Miguel-Ruiz, José E San, and José E. García-Arrarás. "Common Cellular Events
 
 Rojas-Cartagena, Carmencita, Pablo Ortíz-Pineda, Francisco Ramírez-Gómez, Edna C. Suárez-Castillo, Vanessa Matos-Cruz, Carlos Rodríguez, Humberto Ortíz-Zuazaga, and José E. García-Arrarás. "Distinct Profiles of Expressed Sequence Tags during Intestinal Regeneration in the Sea Cucumber Holothuria Glaberrima."Physiol. Genomics PhysiologicalGenomics31, no. 2 (2007): 203-15. doi:10.1152/physiolgenomics.00228.2006. [PDF]
 
-<h3>2006</h3>
+<h3 id = "2006">2006</h3>
 
 Candelaria, Ann Ginette, Gisela Murray, Sharon K. File, and José E. García-Arrarás. "Contribution of Mesenterial Muscle Dedifferentiation to Intestine Regeneration in the Sea Cucumber Holothuria Glaberrima."Cell and Tissue Research325, no. 1 (2006): 55-65. doi:10.1007/s00441-006-0170-z. [PDF]
 
 García-Arrarás, José E., Christian Schenk, Roxanna Rodrígues-Ramírez, Irma I. Torres, Griselle Valentín, and Ann Ginette Candelaria. "Spherulocytes in the EchinodermHolothuria Glaberrimaand Their Involvement in Intestinal Regeneration."Developmental Dynamics235, no. 12 (2006): 3259-267. doi:10.1002/dvdy.20983. [PDF]
 
-<h3>2004</h3>
+<h3 id = "2004">2004</h3>
 
 Cabrera-Serrano, Arelys, and José E. García-Arrarás. "RGD-containing Peptides Inhibit Intestinal Regeneration in the Sea Cucumber Holothuria Glaberrima."Developmental Dynamics231, no. 1 (2004): 171-78. doi:10.1002/dvdy.20112. [PDF]
 
@@ -170,23 +211,23 @@ Suárez-Castillo, Edna C., Wanda E. Medina-Ortı́z, José L. Roig-López, and J
 
 Murray, Gisela, and JoséE. García-Arrarás. "Myogenesis during Holothurian Intestinal Regeneration."Cell and Tissue Research318, no. 3 (2004): 515-24. doi:10.1007/s00441-004-0978-3. [PDF]
 
-<h3>2003</h3>
+<h3 id = "2003">2003</h3>
 
 Santiago-Cardona, Pedro G., César A. Berrı́os, Francisco Ramı́rez, and José E. Garcı́a-Arrarás. "Lipopolysaccharides Induce Intestinal Serum Amyloid A Expression in the Sea Cucumber Holothuria Glaberrima."Developmental & Comparative Immunology27, no. 2 (2003): 105-10. doi:10.1016/s0145-305x(02)00068-x. [PDF]
 
 Barreto-Estrada, J. "The Morphological and Biochemical Response of Avian Embryonic Sympathoadrenal Cells to Nerve Growth Factor Is Developmentally Regulated."Developmental Brain Research144, no. 1 (2003): 1-8. doi:10.1016/s0165-3806(03)00129-9. [PDF]
 
-<h3>2002</h3>
+<h3 id = "2002">2002</h3>
 
 Quiñones, José L., Rey Rosa, Dorcas L. Ruiz, and José E. García-Arrarás. "Extracellular Matrix Remodeling and Metalloproteinase Involvement during Intestine Regeneration in the Sea Cucumber Holothuria Glaberrima."Developmental Biology250, no. 1 (2002): 181-97. doi:10.1006/dbio.2002.0778. [PDF]
 
-<h3>2001</h3>
+<h3 id = "2001">2001</h3>
 
 Roig-Lopez, Jose L., Pedro Santiago, Carlos Santiago, Braulio Jimenez, and Jose E. Garcfa-Arraras. "Strategies to identity differentiallyexpressed genes during regeneration." InEchinoderms 2000: Proceedings of the 10th International Conference, Dunedin, 31 January-4 February 2000, p. 49. Aa Balkema, 2001. [PDF]
 
 García-Arrarás, José E., and Michael J. Greenberg. "Visceral Regeneration in Holothurians."Microscopy Research and Technique55, no. 6 (2001): 438-51. doi:10.1002/jemt.1189. [PDF]
 
-<h3>2000</h3>
+<h3 id = "2000">2000</h3>
 
 Medina-Ortiz, Wanda E., and José E. Garcı́a-Arrarás. "Differential Regulation of NPY MRNA Expression in Embryonic Sympathetic and Chromaffin Cultures by NGF."Developmental Brain Research119, no. 1 (2000): 155-58. doi:10.1016/s0165-3806(99)00164-9. [PDF]
 
@@ -194,7 +235,7 @@ Méndez, Ana T., José L. Roig-López, Pedro Santiago, Carlos Santiago, and Jos�
 
 Santiago, Pedro, JoséLuis Roig-López, Carlos Santiago, and JoséE. García-Arrarás. "Serum Amyloid A Protein in an Echinoderm: Its Primary Structure and Expression during Intestinal Regeneration in the Sea CucumberHolothuria Glaberrima."Journal of Experimental Zoology288, no. 4 (2000): 335-44. doi:10.1002/1097-010x(20001215)288:43.0.co;2-1. [PDF]
 
-<h3>Older</h3>
+<h3 id = "Older">Older</h3>
 
 Silva, W. I., N. Santiago, J. E. García-Arrarás, and B. Carrasquillo. "Electroimmunoblotting of neuropeptide Y: application to the rat vas deferens."Neuroscience letters109, no. 1 (1990): 191-195. [PDF]
 

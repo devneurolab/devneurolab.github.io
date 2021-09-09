@@ -13,11 +13,13 @@ navbar:
     - text: "Members"
       menu:
       - text: "Current"
-        href: about.html
+        href: members.html
       - text: "Alumni"
         href: alumni.html
-    - text: "More"
+    - text: "Data & More"
       menu:
+      - text: "Sequencing Data"
+        href: https://blastkit.hpcf.upr.edu/hglaberrima-v1/
       - text: "Community Outreach"
         href: outreach.html
       - text: "Programs"
