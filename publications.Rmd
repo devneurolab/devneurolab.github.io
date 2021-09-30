@@ -45,6 +45,8 @@ title: "PUBLICATIONS"
 
 <h3 id = "2021">2021</h3>
 
+Quesada-Díaz E, Figueroa-Delgado P, García-Rosario R, Sirfa A, García-Arrarás JE. Dedifferentiation of radial glia-like cells is observed in in vitro explants of holothurian radial nerve cord. J Neurosci Methods. 2021:109358. doi: 10.1016/j.jneumeth.2021.109358. [[ScienceDirect]](https://www.sciencedirect.com/science/article/abs/pii/S0165027021002934)
+
 Alicea-Delgado M, García-Arrarás JE. Wnt/β-catenin signaling pathway regulates cell proliferation but not muscle dedifferentiation nor apoptosis during sea cucumber intestinal regeneration. Developmental Biology. 2021. doi:https://doi.org/10.1016/j.ydbio.2021.08.011 [[ScienceDirect]](https://doi.org/10.1016/j.ydbio.2021.08.011)
 
 Medina-Feliciano JG, Pirro S, García-Arrarás JE, Mashanov V, Ryan JF. Draft Genome of the Sea Cucumber Holothuria glaberrima, a model for the study of regeneration. Frontiers in Marine Science. 8:321, 2021. doi: https://doi.org/10.3389/fmars.2021.603410 [[Frontiers]](https://www.frontiersin.org/articles/10.3389/fmars.2021.603410/full) [[PDF]](https://www.frontiersin.org/articles/10.3389/fmars.2021.603410/pdf)
