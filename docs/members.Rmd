@@ -17,9 +17,9 @@ Lab Technicians
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Yakshi Ortiz Maldonado</h5>
+  <h5 style="color:#003366">Alejandra Beltrán</h5>
   <p style = "font-size: 13px;">Research Assistant</p>
-  <p style = "font-size: 12px;"></p>
+  <p style = "font-size: 12px;">alejandrabel2027@gmail.com</p>
   </div>
 </div>
 
@@ -91,6 +91,17 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Rey Rosa</h5>
+  <p style = "font-size: 13px;">M.S. Student</p>
+  <p style = "font-size: 12px;">reyrosa@hotmail.com</p>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Adbiel Rodríguez</h5>
   <p style = "font-size: 13px;">M.S. Student</p>
   <p style = "font-size: 12px;">adbiel.rodriguez@upr.edu</p>
@@ -150,8 +161,8 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Amanda Morales</h5>
-  <p style = "font-size: 12px;">amanda.morales4@upr.edu</p>
+  <h5 style="color:#003366">Amanda Hernandez</h5>
+  <p style = "font-size: 12px;">amanda.hernandez10@upr.edu</p>
   </div>
 </div>
 
@@ -160,8 +171,8 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Emil Gonzalez</h5>
-  <p style = "font-size: 12px;">emil.gonzalez@upr.edu</p>
+  <h5 style="color:#003366">Carlos Acevedo</h5>
+  <p style = "font-size: 12px;">carlos.acevedo41@upr.edu</p>
   </div>
 </div>
 
@@ -170,8 +181,8 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Kamyla Reyes</h5>
-  <p style = "font-size: 12px;">kamyla.reyes@upr.edu</p>
+  <h5 style="color:#003366">Coralys Cintrón</h5>
+  <p style = "font-size: 12px;">ccintron75@sagrado.edu</p>
   </div>
 </div>
 
@@ -180,8 +191,8 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Kianna Franco</h5>
-  <p style = "font-size: 12px;">kianna.franco@upr.edu</p>
+  <h5 style="color:#003366">Daniel Rivera</h5>
+  <p style = "font-size: 12px;">daniel.rivera38@upr.edu</p>
   </div>
 </div>
 
@@ -190,8 +201,8 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Miozzottys Perez</h5>
-  <p style = "font-size: 12px;">miozzottys.perez@upr.edu</p>
+  <h5 style="color:#003366">Elvin Vargas</h5>
+  <p style = "font-size: 12px;">elvin.vargas5@upr.edu</p>
   </div>
 </div>
 
@@ -200,10 +211,73 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Omar Morales</h5>
-  <p style = "font-size: 12px;">omar.morales10@upr.edu</p>
+  <h5 style="color:#003366">Gabriel Ramos</h5>
+  <p style = "font-size: 12px;">gabriel.ramos34@upr.edu</p>
   </div>
 </div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Génesis Muñoz</h5>
+  <p style = "font-size: 12px;">genesis.munoz3@upr.edu</p>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Glen Wickersham</h5>
+  <p style = "font-size: 12px;">gwickersh72@sagrado.edu</p>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">José Carlos Vélez</h5>
+  <p style = "font-size: 12px;">jose.velez114@upr.edu</p>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Matilde Grosso</h5>
+  <p style = "font-size: 12px;">matilde.grosso@upr.edu</p>
+  </div>
+</div>
+
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Melanie Meza</h5>
+  <p style = "font-size: 12px;">melanie.meza@upr.edu</p>
+  </div>
+</div>
+
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Pamela Esteva</h5>
+  <p style = "font-size: 12px;">pamela.esteva@upr.edu</p>
+  </div>
+</div>
+
 
 <div class="w3-row" style="padding:20px;">
   <div class="w3-container w3-third">
@@ -215,14 +289,38 @@ Grad Students
   </div>
 </div>
 
+
 <div class="w3-row" style="padding:20px;">
   <div class="w3-container w3-third">
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Coraly Cintrón</h5>
-  <p style = "font-size: 12px;">ccintron75@sagrado.edu</p>
+  <h5 style="color:#003366">William Rivera</h5>
+  <p style = "font-size: 12px;">william.rivera27@upr.edu</p>
   </div>
 </div>
+
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Yariann Camacho</h5>
+  <p style = "font-size: 12px;">yariann.camacho@upr.edu</p>
+  </div>
+</div>
+
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Kiara Luna</h5>
+  <p style = "font-size: 12px;">kiara.luna@upr.edu</p>
+  </div>
+</div>
+
 
 ***
