@@ -44,6 +44,16 @@ title: "PUBLICATIONS"
 </div>
 </center>
 
+<h3 id = "2024">2024</h3>
+
+Medina-Feliciano, J.G.; Valentín-Tirado, G.; Luna-Martínez, K.; Miranda-Negrón, Y.; García-Arrarás, J.E. Single-cell RNA sequencing of the holothurian regenerating intestine reveals the pluripotency of the coelomic epithelium. bioRxiv 2024.07.01.601561. [[BioRxiv]](https://doi.org/10.1101/2024.07.01.601561)
+
+Reyes-Rivera, J.; Grillo-Alvarado, V.; Soriano-López, A.E.; García-Arrarás, J.E. Evidence of interactions among apoptosis, cell proliferation, and dedifferentiation in the rudiment during whole-organ intestinal regeneration in the sea cucumber. Developmental Biology 2024, 505. [[Developmental Biology]](https://doi.org/10.1016/j.ydbio.2023.11.001)
+
+<h3 id = "2023">2023</h3>
+
+Auger, N.A.; Medina-Feliciano, J.G.; Quispe-Parra, D.J.; Colón-Marrero, S.; Ortiz-Zuazaga, H.; García-Arrarás, J.E. Characterization and Expression of Holothurian Wnt Signaling Genes during Adult Intestinal Organogenesis. Genes 2023, 14, 309. [[MDPI]](https://doi.org/10.3390/genes14020309)
+
 <h3 id = "2022">2022</h3>
 
 Cruz-González, S.; Quesada-Díaz, E.; Miranda-Negrón, Y.; García-Rosario, R.; Ortiz-Zuazaga, H.; García-Arrarás, J.E. The Stress Response of the Holothurian Central Nervous System: A Transcriptomic Analysis. Int. J. Mol. Sci. 2022, 23, 13393. https://doi.org/10.3390/ijms232113393 [[Int. J. Mol. Sci]](https://www.mdpi.com/1422-0067/23/21/13393) [[PDF]](https://www.mdpi.com/1422-0067/23/21/13393/pdf?version=1667383413)
