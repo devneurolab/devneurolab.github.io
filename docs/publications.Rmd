@@ -32,6 +32,8 @@ title: "PUBLICATIONS"
 
 <center>
 <div class="pagination">
+  <a href="#2024">2024</a>
+  <a href="#2023">2023</a>
   <a href="#2022">2022</a>
   <a href="#2021">2021</a>
   <a href="#2020">2020</a>
@@ -46,13 +48,14 @@ title: "PUBLICATIONS"
 
 <h3 id = "2024">2024</h3>
 
-Medina-Feliciano, J.G.; Valentín-Tirado, G.; Luna-Martínez, K.; Miranda-Negrón, Y.; García-Arrarás, J.E. Single-cell RNA sequencing of the holothurian regenerating intestine reveals the pluripotency of the coelomic epithelium. bioRxiv 2024.07.01.601561. [[BioRxiv]](https://doi.org/10.1101/2024.07.01.601561)
+Medina-Feliciano, J. G., Valentín-Tirado, G., Luna-Martínez, K., Miranda-Negrón, Y., & García-Arrarás, J. E. (2024). Single-cell RNA sequencing of the holothurian regenerating intestine reveals the pluripotency of the coelomic epithelium. eLife, 13. https://doi.org/10.7554/eLife.100796.1 [[eLife]](https://elifesciences.org/reviewed-preprints/100796)
 
-Reyes-Rivera, J.; Grillo-Alvarado, V.; Soriano-López, A.E.; García-Arrarás, J.E. Evidence of interactions among apoptosis, cell proliferation, and dedifferentiation in the rudiment during whole-organ intestinal regeneration in the sea cucumber. Developmental Biology 2024, 505. [[Developmental Biology]](https://doi.org/10.1016/j.ydbio.2023.11.001)
+Reyes-Rivera, J.; Grillo-Alvarado, V.; Soriano-López, A.E.; García-Arrarás, J.E. Evidence of interactions among apoptosis, cell proliferation, and dedifferentiation in the rudiment during whole-organ intestinal regeneration in the sea cucumber. Developmental Biology 2024, 505. https://doi.org/10.1016/j.ydbio.2023.11.001 [[Developmental Biology]](https://www.sciencedirect.com/science/article/abs/pii/S0012160623001847)
 
 <h3 id = "2023">2023</h3>
 
-Auger, N.A.; Medina-Feliciano, J.G.; Quispe-Parra, D.J.; Colón-Marrero, S.; Ortiz-Zuazaga, H.; García-Arrarás, J.E. Characterization and Expression of Holothurian Wnt Signaling Genes during Adult Intestinal Organogenesis. Genes 2023, 14, 309. [[MDPI]](https://doi.org/10.3390/genes14020309)
+Auger, N.A.; Medina-Feliciano, J.G.; Quispe-Parra, D.J.; Colón-Marrero, S.; Ortiz-Zuazaga, H.; García-Arrarás, J.E. Characterization and Expression of Holothurian Wnt Signaling Genes during Adult Intestinal Organogenesis. Genes 2023, 14, 309. https://doi.org/10.3390/genes14020309 [[MDPI]](https://www.mdpi.com/2073-4425/14/2/309) [[PDF]](https://www.mdpi.com/2073-4425/14/2/309/pdf?version=1676962962)
+
 
 <h3 id = "2022">2022</h3>
 

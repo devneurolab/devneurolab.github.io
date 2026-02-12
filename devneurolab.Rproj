@@ -13,4 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: ~/git/devneurolab.github.io
+WebsitePath: /Users/joshuagmedina/Documents/15-GIT-REPOS/devneurolab.github.io
