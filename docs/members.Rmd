@@ -89,24 +89,24 @@ Grad Students
 
 <div class="w3-row" style="padding:20px;">
   <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Amanda Hernandez</h5>
+  <p style = "font-size: 13px;">PhD Student</p>
+  <p style = "font-size: 12px;">amanda.hernandez10@upr.edu"</p>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
   <img src="statics/images/Glen.JPG" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Glen Wickersham</h5>
-  <p style = "font-size: 13px;">Master's Student | Biotechnology TA</p>
+  <p style = "font-size: 13px;">M.S. Student | Exports/Imports Classifier | Prof. Microbiology CUNI</p>
   <p style = "font-size: 12px;">glen.wickersham@upr.edu</p>
   <p style = "font-size: 12px;">In developmental biology, constructing accurate cellular networks is essential for analyzing stages of change in tissue. This is performed through the thorough studies of molecular networks throughout different stages of a developmental process. In our laboratory, my research question incorporates the precise identification and validation of molecular growth factors, migration factors, axonal guidance factors, as well as other molecules from genomic, transcriptomic and single-cell assembly data. In collaboration with other wet-lab techniques, I seek to identify the potential impact the localized expression of these molecular factors can play in aiding or allowing the successful enteric nervous system regenerative process of the intestine to occur.</p>
-  </div>
-</div>
-  
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Kenneth Velazquez Diaz</h5>
-  <p style = "font-size: 13px;">Master's Student | Biology TA</p>
-  <p style = "font-size: 12px;">kenneth.velazquez1@upr.edu</p>
   </div>
 </div>
 
@@ -134,16 +134,6 @@ Grad Students
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Alondra Aleman</h5>
   <p style = "font-size: 12px;">alondra.aleman1@upr.edu</p>
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Amanda Hernández</h5>
-  <p style = "font-size: 12px;">amanda.hernandez10@upr.edu</p>
   </div>
 </div>
 
