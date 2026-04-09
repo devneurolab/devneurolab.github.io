@@ -32,6 +32,8 @@ title: "PUBLICATIONS"
 
 <center>
 <div class="pagination">
+  <a href="#2026">2026</a>
+  <a href="#2025">2025</a>
   <a href="#2024">2024</a>
   <a href="#2023">2023</a>
   <a href="#2022">2022</a>
@@ -45,6 +47,22 @@ title: "PUBLICATIONS"
   <a href="#more">2014 & More</a>
 </div>
 </center>
+<h3 id = "2026">2026</h3>
+
+Wickersham-García, G., Medina-Feliciano, J. G., & García-Arrarás, J. E. (2026). Characterizing axonal guidance molecules in regenerating tissues of the sea cucumber Holothuria glaberrima. Journal of Marine Science and Engineering, 14(6), 547. [[Journal of Marine Science and Engineering]](https://doi.org/10.3390/jmse14060547)
+
+<h3 id = "2025">2025</h3>
+
+Miranda-Negrón, Y., Acevedo-Figueroa, C. J., Ramos-Lugo, G., Medina-Feliciano, J., & García-Arrarás, J. E. (2025). Echinoderm Radial Glia-Like Cells Express Vertebrate Glial Markers. The Journal of comparative neurology, 533(10), e70096. [[Journal of comparative neurology]](https://doi.org/10.1002/cne.70096)
+
+García-Arrarás, J. E., Li, C., Rozario, T., Srivastava, M., & Willoughby, A. (2025). More extraordinary model systems for regeneration. Development, 152(20), dev205215. [[Development]](https://doi.org/10.1242/dev.205215)
+
+Nieves-Morales R, Paez-Diaz JA, Rodriguez-Carrio SM, Melendez Martinez G, Rivera-Lopez EO, Rodríguez-Ramos J, García-Arrarás JE, Rios-Velazquez C. 2025. Intestinal microbiome profile of the brown rock sea cucumber (Holothuria glaberrima) using ITS and 16S rDNA amplicons from direct mechanical, enzymatic, and chemical metagenomic extraction. Microbiol Resour Announc 14:e00293-25.
+[[ASM Journals]](https://doi.org/10.1128/mra.00293-25)
+
+Medina-Feliciano, J. G., Valentín-Tirado, G., Luna-Martínez, K., Beltran-Rivera, A., Miranda-Negrón, Y., & Garcia-Arraras, J. E. (2025). Single-cell RNA sequencing of the holothurian regenerating intestine reveals the pluripotency of the coelomic epithelium. eLife, 13, RP100796. [[eLife]](https://doi.org/10.7554/eLife.100796)
+
+Beltrán-Rivera, A., & García-Arrarás, J. E. (2025). Cellular dedifferentiation. Revisiting Betty Hay's legacy. Developmental biology, 523, 1–8. [[Developmental Biology]](https://doi.org/10.1016/j.ydbio.2025.03.017)
 
 <h3 id = "2024">2024</h3>
 
