@@ -48,7 +48,7 @@ Grad Students
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Julienn Torres</h5>
   <p style = "font-size: 13px;">PhD Student | HHMI-Gilliam Fellow</p>
-  <p style = "font-size: 12px;">julienntorres15@gmail.com</p>
+  <p style = "font-size: 12px;">julienn.torres@upr.edu</p>
   <p style = "font-size: 12px;">I am Julienn Torres Rodríguez, a fourth-year doctoral student specializing in regenerative biology. My research aims to identify and characterize genes that play a crucial role in the regeneration of nerves and the intestines. By focusing on the effects of gene inhibition—particularly genes such as Notch and HNF4—I analyze key cellular processes involved in regeneration, including proliferation, dedifferentiation, and migration. This work has the potential to uncover novel targets for therapeutic strategies and advance our understanding of regenerative mechanisms in both neural and gastrointestinal tissues.</p>
   </div>
 </div>
@@ -59,7 +59,7 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Alejandra Beltrán</h5>
-  <p style = "font-size: 13px;">PhD Student | NSF Bridge to the Doctorate Program Fellow</p>
+  <p style = "font-size: 13px;">PhD Student</p>
   <p style = "font-size: 12px;">alejandrabel2027@gmail.com</p>
   </div>
 </div>
@@ -70,7 +70,7 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Alexis Ruiz</h5>
-  <p style = "font-size: 13px;">PhD Student | NSF Bridge to the Doctorate Program Fellow</p>
+  <p style = "font-size: 13px;">PhD Student</p>
   <p style = "font-size: 12px;">alexis.ruiz4@upr.edu</p>
   </div>
 </div>
@@ -81,7 +81,7 @@ Grad Students
   </div>
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Evelyn Aviles</h5>
-  <p style = "font-size: 13px;">PhD Student | NIH-RISE Fellow</p>
+  <p style = "font-size: 13px;">PhD Candidate</p>
   <p style = "font-size: 12px;">evelyn.aviles@upr.edu</p>
   <p style = "font-size: 12px;">Similar to embryonic development, regeneration is a complex dynamic process that involves cell differentiation, proliferation, and various cell interactions. The insulin growth factor system, (which is composed of Insulin Growth Factor (IGF), IGF-Receptor, IGF-Binding Protein, and IGF-Acid Labile Subunit), is important for these cellular processes. In vertebrate animals, IGF has been shown to be involved in the regenerative process. However, we still do not fully understand how the IGF system is involved in intestinal regeneration. We propose to use a unique organism, the sea cucumber, H. glaberrima, to study how the IGF system affects intestinal regeneration. Our findings will improve our understanding of how IGF works at the molecular and cellular level during intestinal regeneration and could pave the way for future studies in other tissues or organs, and even for potential applications in human regeneration or therapies.</p>
   </div>
@@ -94,7 +94,7 @@ Grad Students
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Amanda Hernandez</h5>
   <p style = "font-size: 13px;">PhD Student</p>
-  <p style = "font-size: 12px;">amanda.hernandez10@upr.edu"</p>
+  <p style = "font-size: 12px;">amanda.hernandez10@upr.edu</p>
   </div>
 </div>
 
@@ -108,6 +108,22 @@ Grad Students
   <p style = "font-size: 12px;">glen.wickersham@upr.edu</p>
   <p style = "font-size: 12px;">In developmental biology, constructing accurate cellular networks is essential for analyzing stages of change in tissue. This is performed through the thorough studies of molecular networks throughout different stages of a developmental process. In our laboratory, my research question incorporates the precise identification and validation of molecular growth factors, migration factors, axonal guidance factors, as well as other molecules from genomic, transcriptomic and single-cell assembly data. In collaboration with other wet-lab techniques, I seek to identify the potential impact the localized expression of these molecular factors can play in aiding or allowing the successful enteric nervous system regenerative process of the intestine to occur.</p>
   </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+<div class="w3-container w3-third">
+<img src="statics/images/jd.jpg" style="width:80%;">
+</div>
+<div class="w3-container w3-twothird">
+<h5 style="color:#003366">
+Josh Davila
+</h5>
+<p style="font-size: 13px;">
+PhD Student | Lab tech BIOL
+</p>
+<p style="font-size: 12px;">
+josh.davila@upr.edu</p>
+</div>
 </div>
 
 ***
