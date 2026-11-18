@@ -120,6 +120,17 @@ Grad Students
   </div>
 </div>
 
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Xaymara Sotomayor</h5>
+  <p style = "font-size: 13px;">PhD Student</p>
+  <p style = "font-size: 12px;">xaymara.sotomayor@upr.edu</p>
+  </div>
+</div>
+
 ***
 
 <h3>Post Bacc</h3> <!-- You can modify your segment here, add your info and move diego to previous alumni --> 
@@ -301,16 +312,6 @@ Grad Students
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Yadiel Negron</h5>
   <p style = "font-size: 12px;">yadiel.negron1@upr.edu</p>
-  </div>
-</div>
-
-<div class="w3-row" style="padding:20px;">
-  <div class="w3-container w3-third">
-  <img src="statics/images/jd.jpg" style="width:80%;">
-  </div>
-  <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Xaymara Sotomayor</h5>
-  <p style = "font-size: 12px;">xaymara.sotomayor@upr.edu</p>
   </div>
 </div>
 
