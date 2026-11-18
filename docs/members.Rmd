@@ -112,7 +112,7 @@ Grad Students
 
 ***
 
-<h3>Post Bac</h3> <!-- You can modify your segment here, add your info and move diego to previous alumni -->
+<h3>Post Bacc</h3> <!-- You can modify your segment here, add your info and move diego to previous alumni -->
 
 <div class="w3-row" style="padding:20px;">
   <div class="w3-container w3-third">
