@@ -117,6 +117,9 @@ Grad Students
   <h5 style="color:#003366">Josh Davila, B.S.</h5>
   <p style = "font-size: 13px;">PhD Student</p>
   <p style = "font-size: 12px;">josh.davila@upr.edu"</p>
+  <p style = "font-size: 12px;">My research focuses on understanding how reactive oxygen species (ROS) regulate tissue regeneration, using the sea cucumber Holothuria glaberrima as a model. 
+I study how redox signaling and mitochondrial activity coordinate cellular processes essential for regeneration, with the goal of identifying mechanisms that could contribute 
+to the development of new strategies in regenerative medicine and biotechnology. </p>
   </div>
 </div>
 
