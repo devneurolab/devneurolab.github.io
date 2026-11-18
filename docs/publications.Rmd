@@ -49,6 +49,10 @@ title: "PUBLICATIONS"
 </center>
 <h3 id = "2026">2026</h3>
 
+Joshua G Medina-Feliciano, Joseph F Ryan, Michael Grapin, Julianys Tirado-Alicea, Amanda Hernandez-Perez, José E García-Arrarás (2026). 
+The high-quality genome of the sea cucumber Holothuria glaberrima reveals new and extended gene families in Holothuroidea.
+BMC Biology. [[BMC Biology]](https://doi.org/10.1186/s12915-026-02779-1)
+
 Wickersham-García, G., Medina-Feliciano, J. G., & García-Arrarás, J. E. (2026). Characterizing axonal guidance molecules in regenerating tissues of the sea cucumber Holothuria glaberrima. Journal of Marine Science and Engineering, 14(6), 547. [[Journal of Marine Science and Engineering]](https://doi.org/10.3390/jmse14060547)
 
 <h3 id = "2025">2025</h3>
