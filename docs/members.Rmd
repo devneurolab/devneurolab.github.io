@@ -125,7 +125,7 @@ Grad Students
   <img src="statics/images/jd.jpg" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
-  <h5 style="color:#003366">Xaymara Sotomayor</h5>
+  <h5 style="color:#003366">Xaymara Sotomayor, B.S.</h5>
   <p style = "font-size: 13px;">PhD Student</p>
   <p style = "font-size: 12px;">xaymara.sotomayor@upr.edu</p>
   </div>
