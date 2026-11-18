@@ -152,6 +152,16 @@ to the development of new strategies in regenerative medicine and biotechnology.
 
 <div class="w3-row" style="padding:20px;">
   <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Andrea Martinez</h5>
+  <p style = "font-size: 12px;">andrea.martinez25@upr.edu</p>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
   <img src="statics/images/Anna.JPG" style="width:80%;">
   </div>
   <div class="w3-container w3-twothird">
@@ -338,6 +348,16 @@ regulate regeneration and how findings from highly regenerative organisms may co
   <div class="w3-container w3-twothird">
   <h5 style="color:#003366">Yadiel Negron</h5>
   <p style = "font-size: 12px;">yadiel.negron1@upr.edu</p>
+  </div>
+</div>
+
+<div class="w3-row" style="padding:20px;">
+  <div class="w3-container w3-third">
+  <img src="statics/images/jd.jpg" style="width:80%;">
+  </div>
+  <div class="w3-container w3-twothird">
+  <h5 style="color:#003366">Yainelly Ortiz</h5>
+  <p style = "font-size: 12px;">yainelly.ortiz@upr.edu</p>
   </div>
 </div>
 
